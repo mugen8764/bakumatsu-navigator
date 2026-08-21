@@ -1,0 +1,2742 @@
+[
+  {
+    "id": "ps_abe_masahiro_1853",
+    "person_id": "abe_masahiro",
+    "as_of": "1853",
+    "start_date": "1853-01-01",
+    "end_date": "1853-12-31",
+    "display_name": null,
+    "affiliation_text": "福山藩主",
+    "faction_id": null,
+    "role": "老中首座",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_hiroshima_edu_abe_masahiro"
+      ],
+      "role": [
+        "u_hiroshima_edu_abe_masahiro"
+      ],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "引用文に「1836(天保7)年に福山藩主となり」とあり、1853年までの間に藩主を退いたという記述がないため、この年も変わっていないものとして推定しています。",
+      "role": "引用文「正弘は，1843(天保14)年に25歳で老中に就任し，２年後には，老中首座(４～５人いる老中の第一番の地位)に就任しました」とあり(1843年の2年後=1845年)、1853年までの間に退任したという記述がないため、この年も変わっていないものとして推定しています。",
+      "activity_description": "1853年の文は「1853(嘉永6)年のペリー艦隊の来航に対する日本の動揺を詠んだものです」というもので、ペリー来航への世間の反応(狂歌)を述べているだけで、阿部本人の行動は書かれていない。推測で埋めず空欄にしています。"
+    }
+  },
+  {
+    "id": "ps_abe_masahiro_1854",
+    "person_id": "abe_masahiro",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": null,
+    "affiliation_text": "福山藩主",
+    "faction_id": null,
+    "role": "老中首座",
+    "activity_description": "日米和親条約を結び、開国への道を決定した",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_hiroshima_edu_abe_masahiro"
+      ],
+      "role": [
+        "u_hiroshima_edu_abe_masahiro"
+      ],
+      "activity_description": [
+        "u_hiroshima_edu_abe_masahiro"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "「この翌年の1854(嘉永7)年に日米和親条約を結び…福山藩主で当時老中だった阿部正弘」と、1854年の出来事を述べる同じ文の中で「福山藩主」と明記している。",
+      "role": "1854年の出来事を述べる文では「当時老中だった阿部正弘」とだけ書かれているが、同じ引用文が「1843(天保14)年に25歳で老中に就任し，２年後には，老中首座(４～５人いる老中の第一番の地位)に就任しました」と述べており、1854年までに首座を退いたという記述はない。1853年時点と同じ継続推論として「老中首座」を採り推定としています(1854年の文に「首座」の語が無いことだけを理由に降格したかのように見せないため)。",
+      "activity_description": "「1854(嘉永7)年に日米和親条約を結び，開国への道を決定した人物が…阿部正弘」と明記。"
+    }
+  },
+  {
+    "id": "ps_enomoto_takeaki_1868",
+    "person_id": "enomoto_takeaki",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": "幕府海軍",
+    "faction_id": null,
+    "role": "海軍副総裁",
+    "activity_description": "江戸城開城後、官軍による軍艦の接収を拒否し、同年8月、品川沖から旧幕府艦隊を率いて蝦夷地(北海道)へ向かった",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_ndl_portrait_enomoto"
+      ],
+      "role": [
+        "u_ndl_portrait_enomoto"
+      ],
+      "activity_description": [
+        "u_ndl_portrait_enomoto",
+        "u_hakodate_hakodatesenso"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを明示した資料に到達できませんでした。",
+      "affiliation_text": "「明治元(1868)年海軍副総裁となる」と明記されており、海軍副総裁は幕府海軍の役職であるためこの所属先を記載した。「幕府海軍」という所属語は引用文になく、「幕臣」「海軍副総裁」の記述から導いた推論のため推定としています。",
+      "role": "「明治元(1868)年海軍副総裁となる」と明記。",
+      "activity_description": "近代日本人の肖像に「江戸城開城後、官軍による軍艦の接収を拒否し」、箱館戦争のページに「明治元年(1868)8月，品川沖を脱走した榎本武揚（えのもとたけあき）が率いる旧幕府脱走軍艦隊が，同年10月20日に蝦夷地の鷲ノ木（わしのき）（現茅部郡森町。かやべぐんもりまち）へ到着し」とあり、両者を組み合わせています。"
+    }
+  },
+  {
+    "id": "ps_enomoto_takeaki_1869",
+    "person_id": "enomoto_takeaki",
+    "as_of": "1869",
+    "start_date": "1869-01-01",
+    "end_date": "1869-12-31",
+    "display_name": null,
+    "affiliation_text": "蝦夷地仮政権",
+    "faction_id": null,
+    "role": "総裁",
+    "activity_description": "明治2年(1869)4月以降、新政府軍の反攻を受けて劣勢となり、同年5月11日の箱館総攻撃で最大の砦だった弁天岬台場がほとんど壊滅するなど窮地に陥った末、五稜郭で降伏した",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_hakodate_hakodatesenso"
+      ],
+      "role": [
+        "u_hakodate_hakodatesenso"
+      ],
+      "activity_description": [
+        "u_hakodate_hakodatesenso",
+        "u_ndl_portrait_enomoto"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "probable"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを明示した資料に到達できませんでした。",
+      "affiliation_text": "箱館戦争のページに「12月15日には，榎本武揚を総裁とする蝦夷地仮政権が樹立されました」とあるが、この「12月15日」が明治元年(1868)か明治2年(1869)にまたがる日付かはこの引用文だけでは確定できない(旧暦12月は西暦では年をまたぐことがある)。その直後の「しかし，明治2年4月…」以降は明確に明治2年(1869)の出来事であり、その時点でも総裁の地位を退いたという記述がないため、1869年時点でも蝦夷地仮政権の総裁だったと継続推論した。",
+      "role": "同じ理由で推定としています。",
+      "activity_description": "箱館戦争のページの「明治2年4月，乙部へ上陸した新政府軍の反撃が開始され…5月11日には明治新政府軍が箱館総攻撃を行う…脱走軍の最大の砦であった弁天岬台場がほとんど壊滅状態となり」は明確に1869年の出来事として明記されている。一方、近代日本人の肖像の「函館五稜郭で官軍に抵抗するが降伏」という降伏の事実そのものには年の明記がなく、箱館戦争のページの記述と組み合わせて1869年の出来事として書いている。この組み合わせのため推定としています。"
+    }
+  },
+  {
+    "id": "ps_goto_shojiro_1866",
+    "person_id": "goto_shojiro",
+    "as_of": "1866",
+    "start_date": "1866-01-01",
+    "end_date": "1866-12-31",
+    "display_name": null,
+    "affiliation_text": "土佐藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "慶応2年(1866)、殖産興業・富国強兵のための中枢機関「開成館」を高知城下・九反田に設けた。同年7月、土佐商会の経営監督や汽船購入のため長崎へ出向き、8月末には上海まで赴いて汽船3隻を購入した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_ndl_portrait_78"
+      ],
+      "role": [],
+      "activity_description": [
+        "t_kochi_goto_kaiseikan"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "高知市歴史散歩316 龍馬と後藤象二郎(高知市)は「藩政に復帰した山内容堂に信用され」と文脈上は藩士であることを示唆するが年を明示した所属の直接記述ではない。後藤象二郎(国立国会図書館)「高知藩士。山内豊信に登用され、藩政の実権を握る」(対象時点を明示しない紹介文)から、この年も変わっていないものとして推定しています。",
+      "role": "正式な役職名を述べた資料には到達できなかった(「彼が中心となり…設けた」は行為の記述であり役職名ではないため「活動」欄に記録しています)。",
+      "activity_description": "引用文「彼が中心となり、慶応二（一八六六）年に、殖産興業と富国強兵を進めるための中枢機関である開成館を、高知城下・九反田の地に設けた…同年七月、象二郎は土佐商会の経営の監督や汽船購入の任務のため、長崎へ出掛ける。八月末には上海にまで行き、汽船三隻を購入している」に明記。"
+    }
+  },
+  {
+    "id": "ps_goto_shojiro_1867",
+    "person_id": "goto_shojiro",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": null,
+    "affiliation_text": "土佐藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "慶応3年(1867)6月、坂本龍馬らと「薩土盟約」を結んで討幕路線を敷く一方、夕顔丸の船上で「船中八策」を書き上げ、大政奉還の根回しを行った。同年7月8日夜には山内容堂に大政奉還の建白を訴え、10月3日にこれを基にした建白書が幕府に出され、10月15日に大政奉還が決定された。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_ndl_portrait_78"
+      ],
+      "role": [],
+      "activity_description": [
+        "t_kochi_goto_satsudo",
+        "t_kochi_city_taiseihokan"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1866年時点と同じ理由により不採用。",
+      "affiliation_text": "1866年時点と同じ理由(継続推論)。",
+      "role": "正式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "高知市歴史散歩316 龍馬と後藤象二郎(高知市)「慶応三年六月に、象二郎は龍馬らと『薩土盟約』を結び、討幕路線を引いている。その一方で、二人は公議政体に向けての『船中八策』を夕顔丸の中で書き上げ…『大政奉還』の根回しまでやってのけた」と、高知市広報「あかるいまち」内和外順(2017年3月号)大政奉還150年(高知市)の日付つきの経緯(7月8日夜の建白訴え・10月3日建白書提出・10月15日大政奉還決定)を組み合わせています。"
+    }
+  },
+  {
+    "id": "ps_hijikata_toshizo_1863",
+    "person_id": "hijikata_toshizo",
+    "as_of": "1863",
+    "start_date": "1863-01-01",
+    "end_date": "1863-12-31",
+    "display_name": null,
+    "affiliation_text": "新選組(京都守護職松平容保の下)",
+    "faction_id": null,
+    "role": "副長",
+    "activity_description": "将軍徳川家茂の上洛の警衛のため組織された浪士隊に近藤勇、沖田総司らと参加。同隊の一部はそのまま京都に残留し、新選組副長として京都の治安維持を担当した",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_ndl_portrait_hijikata"
+      ],
+      "role": [
+        "u_ndl_portrait_hijikata"
+      ],
+      "activity_description": [
+        "u_ndl_portrait_hijikata"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを明示した資料に到達できませんでした。",
+      "affiliation_text": "「文久3(1863)年将軍徳川家茂の上洛に際し…同隊の一部はそのまま京都に残留し、京都守護職松平容保の下で新撰組となり」と明記。",
+      "role": "同じ段落内で「京都の治安維持を担当。土方は副長となった」と続けて明記。近藤勇の局長就任(「のち局長となった」)と異なり「のち」という時点をぼかす語がないため、文久3年時点の役職として確かめています。",
+      "activity_description": "「文久3(1863)年将軍徳川家茂の上洛に際し、警衛のため組織された浪士隊に近藤勇、沖田総司らと参加。同隊の一部はそのまま京都に残留し、京都守護職松平容保の下で新撰組となり、京都の治安維持を担当。土方は副長となった」がそのまま典拠。"
+    }
+  },
+  {
+    "id": "ps_hijikata_toshizo_1869",
+    "person_id": "hijikata_toshizo",
+    "as_of": "1869",
+    "start_date": "1869-01-01",
+    "end_date": "1869-12-31",
+    "display_name": null,
+    "affiliation_text": "蝦夷地仮政権(旧幕府脱走軍)",
+    "faction_id": null,
+    "role": "新選組副長",
+    "activity_description": "明治2年(1869)5月11日(西暦1869年6月20日)の箱館総攻撃で弁天岬台場の救援に向かい、一本木関門付近で銃弾を受けて戦死した",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_hakodate_hakodatesenso"
+      ],
+      "role": [
+        "u_hakodate_hakodatesenso"
+      ],
+      "activity_description": [
+        "u_hakodate_hakodatesenso",
+        "u_ndl_portrait_hijikata_seibotsu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを明示した資料に到達できませんでした。",
+      "affiliation_text": "箱館戦争のページは「品川沖を脱走した榎本武揚（えのもとたけあき）が率いる旧幕府脱走軍艦隊」「榎本武揚を総裁とする蝦夷地仮政権が樹立されました」と述べ、土方はこの記事の中で「新撰組副長の土方歳三」としてこの脱走軍・仮政権の一員として登場する。土方自身が仮政権の一員だったと明記する一文は無く、記事全体の文脈からの読み取りのため推定としています。",
+      "role": "同ページに「その救援に向かった新撰組副長の土方歳三（ひじかたとしぞう）が一本木関門（いっぽんぎかんもん）を入り，異国橋（いこくばし。現在の十字街電停付近）あたりで銃弾に撃たれて戦死することになりました」と明記されており、明治2年(1869年)の箱館総攻撃の場面で「新撰組副長」という肩書きがそのまま使われている。",
+      "activity_description": "箱館戦争のページに「5月11日には明治新政府軍が箱館総攻撃を行うことになりました」「その救援に向かった新撰組副長の土方歳三（ひじかたとしぞう）が一本木関門（いっぽんぎかんもん）を入り，異国橋（いこくばし。現在の十字街電停付近）あたりで銃弾に撃たれて戦死することになりました」と明記。近代日本人の肖像(生没年欄)は「生没年 天保6年 〜 明治2年5月11日 （ 1835 年 〜 1869年6月20日）」とあり、和暦「明治2年5月11日」と西暦「1869年6月20日」の対応がこの資料自身によって示されているため、この対応をそのまま使い、自分で和暦月日を西暦月日に読み替えることはしていない。"
+    }
+  },
+  {
+    "id": "ps_ii_naosuke_1858",
+    "person_id": "ii_naosuke",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "彦根藩主",
+    "faction_id": null,
+    "role": "大老",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "a_hikone_history"
+      ],
+      "role": [
+        "a_hikone_history"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「井伊直弼」 / 元の根拠: 彦根城博物館のページ見出し「井伊直弼（井伊家13代） / 文化12年（1815）～安政7年（1860）」の下、本文で安政5年の大老就任まで一貫して「直弼」の名で記述。",
+      "affiliation_text": "引用文が「直弼が藩主に就任して3年後の嘉永6年（1853）」と述べており、1853年の時点で既に藩主だったことが分かる。同じ引用文の中で安政5年（1858）の大老就任が続けて語られているため、藩主のまま大老に就いたと読み取れる。",
+      "role": "「安政5年（1858）4月には、アメリカとの調印問題や将軍の後継者問題という内外の難局を打開するため、将軍徳川家定の意向により大老職に就きます」と明記。"
+    }
+  },
+  {
+    "id": "ps_ii_naosuke_1860",
+    "person_id": "ii_naosuke",
+    "as_of": "1860",
+    "start_date": "1860-01-01",
+    "end_date": "1860-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "a_hikone_history"
+      ],
+      "affiliation_text": [
+        "a_hikone_history"
+      ],
+      "role": [
+        "a_hikone_history"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "unknown",
+      "affiliation_text": "unknown",
+      "role": "unknown"
+    },
+    "field_notes": {
+      "display_name": "指定時点(万延元年3月3日=安政7年3月3日より後)は桜田門外の変による死去の後。彦根城博物館の記述「安政7年（1860）3月3日、桜田門外で反対派に襲撃され、命を落としました」で死去を確認したため、値は存在しない。",
+      "affiliation_text": "彦根城博物館の資料に「安政7年（1860）3月3日、桜田門外で反対派に襲撃され、命を落としました」とあります。1860年のこの日より後は、所属・役職として示せるものがありません。(月日は当時の暦によるもので、西暦の月日とは一致しません)",
+      "role": "彦根城博物館の資料に「安政7年（1860）3月3日、桜田門外で反対派に襲撃され、命を落としました」とあります。1860年のこの日より後は、所属・役職として示せるものがありません。(月日は当時の暦によるもので、西暦の月日とは一致しません)"
+    }
+  },
+  {
+    "id": "ps_ito_hirobumi_1854",
+    "person_id": "ito_hirobumi",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": null,
+    "affiliation_text": "萩藩(伊藤家)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "父・林十蔵が萩藩士伊藤家の養子となったのに伴い、安政元年(1854)、一家をあげて伊藤家に入った。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_yamaguchi_tourism_ito_residence"
+      ],
+      "role": [],
+      "activity_description": [
+        "s_yamaguchi_tourism_ito_residence"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗り(改姓後の呼び名)を明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「もとは萩藩の中間 伊藤直右衛門の居宅でしたが、安政元年（1854）に伊藤博文の父・林十蔵が伊藤家の養子となったため、一家をあげて伊藤家に入家」に明記。",
+      "role": "正式な役職名を述べた資料に到達できなかったため 記録していません。なお身分については、引用文が伊藤家を「中間」とする一方、別の既存出典(伊藤博文(山口県立山口図書館))は「下級武士である伊藤家」と表現しており呼び方が資料間で異なる。これは役職ではなく身分の呼称の問題なので、ここでは値としては採っていません。",
+      "activity_description": "引用文「安政元年（1854）に伊藤博文の父・林十蔵が伊藤家の養子となったため、一家をあげて伊藤家に入家」に明記。「萩の松下村塾には17歳のときこの家から通いました」という記述もあるが、数え年か満年齢か不明なため西暦年に換算せず、この記述には含めなかった。"
+    }
+  },
+  {
+    "id": "ps_ito_hirobumi_1869",
+    "person_id": "ito_hirobumi",
+    "as_of": "1869",
+    "start_date": "1869-01-01",
+    "end_date": "1869-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府",
+    "faction_id": null,
+    "role": "大蔵少輔兼民部少輔",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_jacar_ito"
+      ],
+      "role": [
+        "s_jacar_ito"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。別称として「伊藤俊輔」等が同じ出典に列記されているが、いつまでこの通称を用いたかの明記がないため採用しなかった。",
+      "affiliation_text": "引用文自体に「新政府」という語はないが、「1868年兵庫県知事。1869年大蔵少輔兼民部少輔」という役職の記述から、明治政府に出仕していたことが読み取れるため、役職からの間接的な推論として推定しています。",
+      "role": "引用文「1869年大蔵少輔兼民部少輔」に明記。"
+    }
+  },
+  {
+    "id": "ps_iwakura_tomomi_1858",
+    "person_id": "iwakura_tomomi",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "朝廷",
+    "faction_id": null,
+    "role": "侍従",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "b_ndl_portrait_iwakura",
+        "b_iwakura_residence"
+      ],
+      "role": [
+        "b_ndl_portrait_iwakura",
+        "b_iwakura_residence"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「岩倉具視」 / 元の根拠: 国立国会図書館「近代日本人の肖像」の見出し・本文全体を通じて「岩倉具視」表記で一貫しており、対象期間(安政元年〜慶応3年)に改名の記述がない。ページ内では「岩倉具慶の養嗣子。安政元(1854)年孝明天皇の侍従となる。5年…」と続けて書かれており、安政5年時点でも同じ名で呼ばれていたと読める。",
+      "affiliation_text": "国立国会図書館「近代日本人の肖像」「安政元(1854)年孝明天皇の侍従となる」、岩倉具視幽棲旧宅の公式ページも「安政元年（１８５４）に侍従（じじゅう）となり」と同内容を記載。いずれも安政5年までの継続を否定する記述がなく、朝廷所属が確認できる。",
+      "role": "国立国会図書館「近代日本人の肖像」「安政元(1854)年孝明天皇の侍従となる。5年日米修好通商条約勅許の奏請に対し、阻止をはかる」という一連の記述から、安政5(1858)年の条約勅許阻止工作の時点でも侍従の地位にあったと読める(間に役職変更の記述なし)。岩倉具視幽棲旧宅の公式ページも侍従就任の事実を確認している。"
+    }
+  },
+  {
+    "id": "ps_iwakura_tomomi_1867",
+    "person_id": "iwakura_tomomi",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "b_ndl_portrait_iwakura"
+      ],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「岩倉具視」 / 元の根拠: 国立国会図書館「近代日本人の肖像」で「慶応3年まで幽居。以後、討幕へと転回し、同年12月、大久保利通らと王政復古のクーデターを画策」と、一貫して「岩倉具視」の名で記述されており、改名の記述はない。",
+      "affiliation_text": "国立国会図書館「近代日本人の肖像」「慶応3年まで幽居。以後、討幕へと転回し、同年12月、大久保利通らと王政復古のクーデターを画策。新政府において、参与、議定、大納言、右大臣等をつとめる」から、慶応3年12月の王政復古クーデターの当事者として新政府側に立ったことが明記されている。ただし出典の「同年12月」は元号表記のみで、この王政復古の大号令(慶応3年12月9日)はグレゴリオ暦では1868年1月3日にあたるため、西暦1867年内の出来事と確定できるとは限らない。旧暦と西暦のずれで年を確定できないため、年だけを確かなものとして扱っている。",
+      "role": "慶応3年12月9日の王政復古(三職=総裁・議定・参与の設置)時点で岩倉具視が具体的にどの役職に就いたか(議定か参与か)を明記した資料には到達できませんでした。国立国会図書館「近代日本人の肖像」は『新政府において、参与、議定、大納言、右大臣等をつとめる』と複数の役職を列挙するのみで、慶応3年12月時点でどれだったかの日付紐付けがない。国立公文書館やNDLの関連ページも三職設置の一般的な解説にとどまり、岩倉具視個人とこの時点の役職を結び付ける記述は見つからなかった。"
+    }
+  },
+  {
+    "id": "ps_katsu_kaishu_1862",
+    "person_id": "katsu_kaishu",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": "勝麟太郎",
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": "軍艦奉行並",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "a_ndl_nikki_katsukaishu"
+      ],
+      "affiliation_text": [],
+      "role": [
+        "a_ndl_portrait_51",
+        "a_ndl_nikki_katsukaishu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "probable",
+      "affiliation_text": "needs_review",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "NDL「日記の世界」の履歴に「名は義邦のち安芳、通称麟太郎」とあり、同履歴の年表で安房守の称を許されたのは元治元年(1864)5月と明記されている。1862年(文久2年)はこれ以前のため、通称の麟太郎で呼ばれていた。",
+      "affiliation_text": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「幕臣」 / 元の根拠: 国立国会図書館「近代日本人の肖像」冒頭に「幕臣。長崎海軍伝習所に学ぶ」とあり、文久2年の軍艦奉行並就任を含む幕末期を通じて幕臣であったことが同一記事内で確認できる。",
+      "role": "国立国会図書館「近代日本人の肖像」に「文久2(1862)年軍艦奉行並となる」と明記。NDL「日記の世界」の年表にも「文久2.閏8軍艦奉行並」と明記。"
+    }
+  },
+  {
+    "id": "ps_katsu_kaishu_1868",
+    "person_id": "katsu_kaishu",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": "勝安房",
+    "affiliation_text": "幕臣",
+    "faction_id": null,
+    "role": "陸軍総裁",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "a_jacar_hatamoto51",
+        "a_ndl_nikki_katsukaishu"
+      ],
+      "affiliation_text": [
+        "a_ndl_portrait_51"
+      ],
+      "role": [
+        "a_ndl_nikki_katsukaishu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "probable",
+      "affiliation_text": "probable",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "国立公文書館の展示解説に「元治元年（1864）に軍艦奉行を拝命し、安房守の称を許されました」とあり、同館の展示資料タイトル自体が「勝安房等ノ動静探索書」。NDL「日記の世界」の年表でも元治元年(1864)から安房守のまま変更の記述がなく、1868年(慶応4年)時点でも「勝安房」の呼称が妥当。",
+      "affiliation_text": "国立国会図書館「近代日本人の肖像」の同一記事内で、戊辰戦争(慶応4年)での江戸城無血開城の記述に続いて「新政府で、海軍大輔…を歴任」とあり、新政府出仕はこれより後(明治2年以降)。慶応4年3月の開城談判時点ではまだ幕臣。",
+      "role": "NDL「日記の世界」の年表に「慶応4（1868）.1海軍奉行並、陸軍総裁」と明記。江戸開城談判(慶応4年3月13・14日)はこの1月の任命から変更の記述がない期間内。"
+    }
+  },
+  {
+    "id": "ps_kido_takayoshi_1863",
+    "person_id": "kido_takayoshi",
+    "as_of": "1863",
+    "start_date": "1863-01-01",
+    "end_date": "1863-12-31",
+    "display_name": "桂小五郎",
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "c_ndl_portrait_kido_alias",
+        "c_yamaguchi_lib_kido"
+      ],
+      "affiliation_text": [],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "probable",
+      "affiliation_text": "needs_review",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "国立国会図書館「近代日本人の肖像」の別称欄に「桂小五郎（かつら こごろう）、松菊（しょうぎく）」の記載あり。山口県立山口図書館の解説では、藩命による木戸姓（木戸貫治・木戸準一郎）への変更は慶応2(1866)年頃からと明記されており、それ以前の1863年時点では桂小五郎を名乗っていたと推定される。ただし『1863年時点でこの名を名乗っていた』と明示的に年を特定した一文は見つかっていないため、「確認済み」ではなく「推定」とした。",
+      "affiliation_text": "NDL本文に「藩の重職に就き、藩論を討幕へと導く」とあるが、この一文には年代が付されておらず(前後の文脈は1858年頃〜1866年の間の広い範囲)、1863年時点の所属を単独で裏付ける資料に到達できませんでした。",
+      "role": "1863年当時ではなく慶応元(1865)年5月27日の役職就任(政事堂内用掛国政方用談役心得)に関する情報が見つかったが、これは1865年の話であり1863年には当てはまらない。かつこの情報は要約止まりで原文を確認できていないため出典として採用できない。1863年時点の具体的役職を明記した資料には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_kido_takayoshi_1868",
+    "person_id": "kido_takayoshi",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府(参与)",
+    "faction_id": null,
+    "role": "参与",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_kido"
+      ],
+      "role": [
+        "c_ndl_portrait_kido"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「木戸孝允」 / 元の根拠: 山口県立山口図書館の解説に「この頃から藩命により木戸姓（木戸貫治、木戸準一郎）を用いるようになり、維新後は「木戸孝允」と改名」と明記。「維新後」は慶応4(1868)年を含む。",
+      "affiliation_text": "NDL本文「王政復古のクーデター後、五箇条の誓文草案を起草。参与に任ぜられ、版籍奉還の実現に尽力した」に基づく。王政復古(慶応3年12月9日=グレゴリオ暦1868年1月3日)後の参与就任であり、その任は慶応4(1868)年に及ぶ。",
+      "role": "同上引用「参与に任ぜられ」に基づく。次の役職(参議)は明治3(1870)年からとNDL本文に明記されているため、1868年時点は参与と判断。"
+    }
+  },
+  {
+    "id": "ps_komatsu_tatewaki_1867",
+    "person_id": "komatsu_tatewaki",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": null,
+    "affiliation_text": "薩摩藩",
+    "faction_id": null,
+    "role": "家老",
+    "activity_description": "慶応3年(1867)10月、将軍徳川慶喜に大政奉還を進言した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_portrait_komatsu"
+      ],
+      "role": [
+        "s_ndl_portrait_komatsu"
+      ],
+      "activity_description": [
+        "s_ndl_portrait_komatsu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文は「藩主島津斉彬の小姓となる」「藩政改革派として藩政に携わり、家老となる」で藩名自体は明示していないが、藩主島津斉彬に仕えたという記述から薩摩藩と判断した(単一の資料による間接的な推論)。",
+      "role": "「その後、藩政改革派として藩政に携わり、家老となる」に具体的な就任年の記載がなく、1866・1867年の記述内容(薩長同盟の締結・大政奉還の進言という藩を代表する行為)から、その時点でも家老の地位にあったと判断した(単一の間接的な資料による継続推論)。",
+      "activity_description": "引用文「3年10月、将軍徳川慶喜に大政奉還を進言した」に基づく。直前の文が「慶応2(1866)年1月」から始まるため、「3年」は慶応3年(1867年)を指す。"
+    }
+  },
+  {
+    "id": "ps_komatsu_tatewaki_1869",
+    "person_id": "komatsu_tatewaki",
+    "as_of": "1869",
+    "start_date": "1869-01-01",
+    "end_date": "1869-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "病気のため、新政府の官職を辞した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [],
+      "role": [],
+      "activity_description": [
+        "s_ndl_portrait_komatsu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "needs_review",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「2年5月、病気のため官を辞した」は年内で官職を離れる出来事であり、年単位の枠(1869年)全体としてどの所属にあったと表現すべきか判断できなかった(年始はまだ新政府の総裁局顧問だったと考えられるが、辞任後の所属は資料にない)。",
+      "role": "同上の理由により、年単位の枠に収まる単一の役職を決められなかった。",
+      "activity_description": "引用文「明治元(1868)年総裁局顧問に就任するなど新政府で重きをなすが、2年5月、病気のため官を辞した」に基づく。直前の文が「明治元(1868)年」から始まるため、「2年」は明治2年(1869年)を指す。"
+    }
+  },
+  {
+    "id": "ps_komei_tenno_1858",
+    "person_id": "komei_tenno",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "朝廷",
+    "faction_id": null,
+    "role": "天皇",
+    "activity_description": "日米修好通商条約への勅許を求める老中堀田正睦の上京・根回し工作にもかかわらず、安政5年(1858)3月末まで勅許を与えない姿勢を崩さなかった。幕府は同年6月19日、勅許のないまま条約に調印した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_mito_nitibei"
+      ],
+      "role": [
+        "t_mito_nitibei"
+      ],
+      "activity_description": [
+        "t_mito_nitibei"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗り(諱等)を明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文全体が「孝明天皇」を主体として朝廷側の勅許可否の判断を記述しており、朝廷の中心にあったことが直接読み取れる。",
+      "role": "同上。「孝明天皇のかたくなな姿勢は変わらず」のように天皇として行動する主体として一貫して記述されている。",
+      "activity_description": "引用文「老中堀田正睦が上京し…勅許への根回しを期待したものの、孝明天皇のかたくなな姿勢は変わらず、安政5年（1858）3月末堀田はむなしく江戸に戻りました…結局、翌19日に日米修好通商条約は調印されました」に明記。"
+    }
+  },
+  {
+    "id": "ps_komei_tenno_1862",
+    "person_id": "komei_tenno",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "朝廷",
+    "faction_id": null,
+    "role": "天皇",
+    "activity_description": "妹・和宮親子内親王を将軍徳川家茂に嫁がせることについて当初は反対したが、幕府からの度重なる要請を受けて応諾し、文久2年(1862)2月11日、婚儀が行われた。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_iwaki_ando_wakon"
+      ],
+      "role": [
+        "t_iwaki_ando_wakon"
+      ],
+      "activity_description": [
+        "t_iwaki_ando",
+        "t_iwaki_ando_wakon"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1858年時点と同じ理由。",
+      "affiliation_text": "引用した資料が「孝明天皇」を主体として述べているのは、和宮降嫁の申し入れ(1860年)への反対と応諾までの場面で、1862年の年表行そのものには天皇は登場しない。1858年時点の在位から1862年まで在位が変わったという記述もないため、この年も変わっていないものとして推定しています。",
+      "role": "同じ理由で推定としています。",
+      "activity_description": "市公式Facebook連載シリーズ「安藤信正生誕200年」(いわき市)「孝明天皇は、すでに、和宮が6歳の時に有栖川宮熾仁親王と婚約していたことなどを理由に反対しましたが、数度にわたる幕府からの要請を受け、和宮と家茂の結婚を応諾しました」と、市公式Facebook連載シリーズ「安藤信正生誕200年」(いわき市)の年表部分「文久2（1862）年…2月11日 和宮と江戸幕府14代将軍、徳川家茂が結婚」を組み合わせています。婚儀の年は年表部分(正しく「文久」と表記)の西暦表記に基づく。"
+    }
+  },
+  {
+    "id": "ps_kondo_isami_1863",
+    "person_id": "kondo_isami",
+    "as_of": "1863",
+    "start_date": "1863-01-01",
+    "end_date": "1863-12-31",
+    "display_name": null,
+    "affiliation_text": "新選組(京都守護職松平容保の下)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "将軍徳川家茂の上洛の警衛のため組織された浪士隊に土方歳三、沖田総司らと参加。同隊の一部はそのまま京都に残留して新選組となった",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_ndl_portrait_kondo"
+      ],
+      "role": [],
+      "activity_description": [
+        "u_ndl_portrait_kondo"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを明示した資料に到達できませんでした。",
+      "affiliation_text": "「文久3(1863)年将軍徳川家茂の上洛に際し…同隊の一部はそのまま京都に残留し、京都守護職松平容保の下で新撰組となり」と明記。",
+      "role": "引用文は局長就任を「近藤はのち局長となった」と述べるのみで年を特定していないため、1863年時点の役職としては採らない。",
+      "activity_description": "「文久3(1863)年将軍徳川家茂の上洛に際し、警衛のため組織された浪士隊に土方歳三、沖田総司らと参加。同隊の一部はそのまま京都に残留し、京都守護職松平容保の下で新撰組となり」と明記。"
+    }
+  },
+  {
+    "id": "ps_kondo_isami_1867",
+    "person_id": "kondo_isami",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": null,
+    "affiliation_text": "幕臣(見廻組)",
+    "faction_id": null,
+    "role": "見廻組頭取",
+    "activity_description": "見廻組頭取を命じられ幕臣となった",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_ndl_portrait_kondo"
+      ],
+      "role": [
+        "u_ndl_portrait_kondo"
+      ],
+      "activity_description": [
+        "u_ndl_portrait_kondo"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを明示した資料に到達できませんでした。",
+      "affiliation_text": "「慶応3(1867)年見廻組頭取として幕臣となる」と明記。新選組隊士から幕臣直参の見廻組へ移ったことが読み取れる。",
+      "role": "同上。「慶応3(1867)年見廻組頭取として幕臣となる」に年と役職が同じ文で明記されている(「のち」のように時期をぼかす語がないため、1863年の局長就任とは違い、この年の役職として確かめられます)。",
+      "activity_description": "「慶応3(1867)年見廻組頭取として幕臣となる」がそのまま典拠。"
+    }
+  },
+  {
+    "id": "ps_kusaka_genzui_1854",
+    "person_id": "kusaka_genzui",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "母、次いで兄と父が亡くなったため、安政元年(1854)に家督を継いだ。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_yamaguchi_lib_kusaka"
+      ],
+      "role": [],
+      "activity_description": [
+        "s_yamaguchi_lib_kusaka"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "引用文中の通称・諱・字・雅号・幼名の列記は経歴全体を通した紹介文中の記述で、1854年時点に限定した名乗りを明示したものではないため不採用。",
+      "affiliation_text": "引用文冒頭の「長州藩士」は経歴全体を通した紹介文中の記述で対象時点を明示していないが、出生から一貫する身分と考えられるため継続推論として採用した。",
+      "role": "正式な役職名を述べた資料には到達できなかった(14歳での家督相続であり、藩の役職に就いた記述はない)。",
+      "activity_description": "引用文「母・富子、次いで兄・玄機（げんき）と父が亡くなったため、安政元年（1854）に家督を継ぐ」に明記。"
+    }
+  },
+  {
+    "id": "ps_kusaka_genzui_1864",
+    "person_id": "kusaka_genzui",
+    "as_of": "1864",
+    "start_date": "1864-01-01",
+    "end_date": "1864-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "元治元年(1864)の禁門の変(蛤御門の変)で負傷し、自刃した(25歳没)。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_yamaguchi_lib_kusaka"
+      ],
+      "role": [],
+      "activity_description": [
+        "s_yamaguchi_lib_kusaka"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1854年時点と同じ理由により不採用。",
+      "affiliation_text": "1854年の家督相続から死去する1864年まで、藩から離れたことを示す記述がないため継続推論とした。",
+      "role": "正式な役職名を述べた資料には到達できませんでした。文久2年(1862)のイギリス公使館焼き討ちや光明寺党の結成は行為の記述であり、かつ1864年時点の記述ではないためこの時点の役職としては採用しなかった。",
+      "activity_description": "引用文「元治元年（1864）の禁門の変（蛤御門の変）で負傷し、鷹司邸で自刃。２５歳没」に明記。"
+    }
+  },
+  {
+    "id": "ps_matsudaira_katamori_1862",
+    "person_id": "matsudaira_katamori",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "会津藩(藩主)",
+    "faction_id": null,
+    "role": "京都守護職",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_katamori"
+      ],
+      "role": [
+        "c_ndl_portrait_katamori"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「松平容保」 / 元の根拠: NDL本文は嘉永5(1852)年の襲封時から一貫して「松平容保」の名で記述しており、改名の記載はない。",
+      "affiliation_text": "NDL本文「会津藩主松平容敬の養子となる。嘉永5(1852)年襲封」に基づく。",
+      "role": "NDL本文「文久2(1862)年京都守護職に任じられ上洛」に明記。"
+    }
+  },
+  {
+    "id": "ps_matsudaira_katamori_1868",
+    "person_id": "matsudaira_katamori",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": "会津藩(藩主)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_katamori"
+      ],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「松平容保」 / 元の根拠: 同資料内で改名の記載はなく、明治13(1880)年に日光東照宮宮司となるまで同名で通しているため、1868年時点でも同名と判断。",
+      "affiliation_text": "NDL本文「4(1868)年鳥羽・伏見の戦で敗れる。会津で謹慎したが、新政府軍に攻められ降伏」より、この時点でも会津藩(藩主)としての立場が続いていることが読み取れる。正式な隠居・退任の記載は明治13年の日光東照宮宮司就任まで無い。",
+      "role": "京都守護職は慶応3(1867)年の王政復古で解任されている(NDL本文「慶応3(1867)年王政復古で京都守護職を免ぜられ」に明記)。1868年1〜3月時点で守護職に代わる公式な地位・呼称(「朝敵」指定等)を明記した資料には到達できませんでした。会津若松の観光案内サイト・福島県公式サイト・NDLの電子展示会ページを確認したが、福島県サイトは1月の鳥羽伏見の戦いから5月の奥羽越列藩同盟、9月の降伏という年表のみで、NDLの電子展示会には「朝敵」の語はあるものの1〜3月への時期特定はなく、いずれもこの時期(1〜3月)の役職・指定を明記した記述は得られなかった。"
+    }
+  },
+  {
+    "id": "ps_matsudaira_shungaku_1862",
+    "person_id": "matsudaira_shungaku",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "江戸幕府",
+    "faction_id": null,
+    "role": "政事総裁職",
+    "activity_description": "文久2年(1862)7月9日、政事総裁職を命じられ、幕政改革にあたった。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_fukui_nenpyo",
+        "t_ndl_portrait_195"
+      ],
+      "role": [
+        "t_fukui_nenpyo",
+        "t_ndl_portrait_195"
+      ],
+      "activity_description": [
+        "t_fukui_nenpyo",
+        "t_ndl_portrait_195"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できなかった(「春岳」は経歴全体を通した別称として記載されているのみで年の特定がない)。",
+      "affiliation_text": "松平慶永(春嶽)は福井藩主で、この時点では幕府の要職(政事総裁職)にあった。近代日本人の肖像に「文久2(1862)年政事総裁職に就任し、幕政改革にあたる」とあり、福井県文書館の年表も同年同月の就任を日付つきで記す。所属を藩ではなく幕府としたのはこの職による。「江戸幕府」という所属語は引用文になく、政事総裁職が幕府の職であることから導いた推論のため推定としています。",
+      "role": "同上。両出典が同一年の役職として明記している。",
+      "activity_description": "近代日本人の肖像の「文久2(1862)年政事総裁職に就任し、幕政改革にあたる」で年と就任が明記されている。日付「7月9日」は福井県文書館の年表の当該行の日付セルによるもので、引用した記事セルには含まれない(その行が1862年7月9日条であることは出典の注記に記録した)。"
+    }
+  },
+  {
+    "id": "ps_matsudaira_shungaku_1868",
+    "person_id": "matsudaira_shungaku",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府",
+    "faction_id": null,
+    "role": "内国事務総督(議定)",
+    "activity_description": "明治元年(1868)1月17日、新政府の官制(三職七科)公布に伴い、議定として内国事務総督に就任した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_fukui_nenpyo_naikoku"
+      ],
+      "role": [
+        "t_fukui_nenpyo_naikoku"
+      ],
+      "activity_description": [
+        "t_fukui_nenpyo_naikoku"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "福井県文書館の年表に「新政府，官制（3職7科）を公布.松平慶永（議定）が内国事務総督に」とあり、新政府の職に就いたことが明記されている。年月日(1868年=明治元年1月17日)は同じ行の日付セルによるもので引用範囲の外にあり、その行の特定は出典の注記に記録した。",
+      "role": "同じ引用文に「松平慶永（議定）が内国事務総督に」と明記。年月日の扱いは所属欄と同じ。",
+      "activity_description": "引用した年表の記事セルがそのまま典拠。年月日(明治元年1月17日)は同じ行の日付セルによるもので、引用範囲の外にある。"
+    }
+  },
+  {
+    "id": "ps_matthew_perry_1853",
+    "person_id": "matthew_perry",
+    "as_of": "1853",
+    "start_date": "1853-01-01",
+    "end_date": "1853-12-31",
+    "display_name": null,
+    "affiliation_text": "アメリカ海軍東インド艦隊",
+    "faction_id": null,
+    "role": "東インド艦隊司令長官",
+    "activity_description": "黒船4隻を率いて浦賀沖に来航し、浦賀に上陸。アメリカ大統領の親書を携え、日本に開国を迫った",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_yokosuka_kurofune",
+        "u_state_gov_opening_japan"
+      ],
+      "role": [
+        "u_yokosuka_kurofune",
+        "u_state_gov_opening_japan"
+      ],
+      "activity_description": [
+        "u_yokosuka_kurofune",
+        "u_state_gov_opening_japan",
+        "u_archives_gov_kanagawa_treaty"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の呼称・名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "「嘉永6年（1853）米国東インド艦隊司令長官ペリーが率いる…黒船艦隊4隻」と明記。英語出典も「On July 8, 1853, American Commodore Matthew Perry led his four ships」と同じ年に同じ地位を述べている。",
+      "role": "同上。日本語出典の「東インド艦隊司令長官」、英語出典の「American Commodore」がいずれも1853年の来航記事の中で述べられている。",
+      "activity_description": "「嘉永6年（1853）米国東インド艦隊司令長官ペリーが率いる蒸気船サスケハナ号、ミッシシッピー号、帆船プリマス号、サラトガ号の黒船艦隊4隻が大西洋・インド洋航路で浦賀沖へ来航し、浦賀（現在の久里浜）に上陸。ペリーはアメリカ大統領の親書を携え、日本に開国を迫り」と明記。米国立公文書館のページも「Perry sailed into what is now Tokyo Bay in July 1853 with a sinister-looking armada of four “black ships,”」と同内容を補足。"
+    }
+  },
+  {
+    "id": "ps_matthew_perry_1854",
+    "person_id": "matthew_perry",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": null,
+    "affiliation_text": "アメリカ海軍東インド艦隊",
+    "faction_id": null,
+    "role": "東インド艦隊司令長官",
+    "activity_description": "1854年3月、9隻の艦隊を率いて再来航し、交渉のうえ3月31日(西暦)に日米和親条約(神奈川条約)を締結させた",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_yokosuka_kurofune"
+      ],
+      "role": [
+        "u_yokosuka_kurofune"
+      ],
+      "activity_description": [
+        "u_state_gov_opening_japan_treaty",
+        "u_archives_gov_kanagawa_treaty_signing",
+        "u_yokosuka_kurofune"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1853年と同じ理由。",
+      "affiliation_text": "1854年の来航を述べる各出典の文中には「東インド艦隊司令長官」の語が直接は現れず、1853年の記述からの継続推論(地位を退いたという記述がない)のため推定としています。",
+      "role": "同じ理由で推定としています。",
+      "activity_description": "米国務省のページに「The following spring, Perry returned with an even larger squadron to receive Japan’s answer. The Japanese grudgingly agreed to Perry’s demands, and the two sides signed the Treaty of Kanagawa on March 31, 1854」、国立公文書館のページに「In March 1854, Perry returned, this time with nine ships, sailing farther into Tokyo Bay than he had the year before. The nervous Japanese finally talked him into moving to Kanagawa, a port forty-five miles away. With the nine ships staring at them, the Japanese finally agreed to a treaty」と明記。いずれも西暦の日付でそのまま書かれており、和暦からの読み替えは発生していない。日本語出典(ペリーの黒船(横須賀市))の「翌年に日米和親条約を締結させました」も同内容。"
+    }
+  },
+  {
+    "id": "ps_nakaoka_shintaro_1866",
+    "person_id": "nakaoka_shintaro",
+    "as_of": "1866",
+    "start_date": "1866-01-01",
+    "end_date": "1866-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "脱藩後、長州藩の庇護のもとで活動しながら坂本龍馬とともに薩摩・長州両藩の代表者を説得し、慶応2年(1866)、薩長同盟を成立させた。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [],
+      "role": [],
+      "activity_description": [
+        "t_nakaoka_satcho"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "needs_review",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「脱藩した慎太郎は長州藩のもとで様々な活躍をする」は長州藩の庇護下での活動を示すが、正式な藩士としての所属を述べたものではなく(脱藩者であり浪士の立場)、単一の値に確定できないため空欄にしています。",
+      "role": "正式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "引用文「時を同じくして同じ考えを持っていた龍馬と組み、薩長両藩の代表者を説得、慶応2年（1866）、ついに薩長連合を成立させた」に明記。"
+    }
+  },
+  {
+    "id": "ps_nakaoka_shintaro_1867",
+    "person_id": "nakaoka_shintaro",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": null,
+    "affiliation_text": "陸援隊",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "慶応3年(1867)、陸援隊を結成した。徳川幕府打倒を目前に、京都近江屋で坂本龍馬と会談中、刺客に襲われ30歳で死去した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_nakaoka_about_death"
+      ],
+      "role": [],
+      "activity_description": [
+        "t_nakaoka_about_death"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「慶応3年（1867）、龍馬は海援隊を慎太郎は陸援隊（謀報機関・軍隊）を結成した」に明記。自ら結成した組織であるため所属先として記録した。",
+      "role": "「隊長」等の具体的な役職名を述べた資料には到達できなかった(結成者であることは 「所属」欄に記録しています)。",
+      "activity_description": "引用文「慶応3年（1867）、龍馬は海援隊を慎太郎は陸援隊（謀報機関・軍隊）を結成した。徳川幕府を倒して新しい国家を築く目前に、京都近江屋で龍馬と会談中刺客に襲われ、わずか30歳でその生涯を閉じた」に明記。"
+    }
+  },
+  {
+    "id": "ps_oguri_tadamasa_1860",
+    "person_id": "oguri_tadamasa",
+    "as_of": "1860",
+    "start_date": "1860-01-01",
+    "end_date": "1860-12-31",
+    "display_name": null,
+    "affiliation_text": "江戸幕府",
+    "faction_id": null,
+    "role": "外国奉行",
+    "activity_description": "日本初の遣米使節の目付として渡米し、アフリカ・アジアを経て帰国。帰国後、外国奉行となった",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_takasaki_oguri_nenpyo"
+      ],
+      "role": [
+        "u_takasaki_oguri_nenpyo"
+      ],
+      "activity_description": [
+        "u_takasaki_oguri_nenpyo",
+        "u_takasaki_oguri_profile"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "略年表の「1860年（34歳）…帰国後、外国奉行になる」から、外国奉行という江戸幕府の役職に就いたことが明記されている(外国奉行は江戸幕府の役職であり、これ以外の所属先は考えられない)。「江戸幕府」という所属語は引用文になく、目付・外国奉行が幕府の職であることから導いた推論のため推定としています。",
+      "role": "略年表の同じ行に「帰国後、外国奉行になる」と明記。",
+      "activity_description": "略年表「1860年（34歳）日本初の遣米使節で目付として渡米。続けてアフリカ、アジアを巡り帰国。帰国後、外国奉行になる」がそのまま典拠。プロフィールページも「34歳で日本初の遣米使節の目付としてポウハタン号に乗り込み渡米。続けてアフリカ、アジアと巡り、約9か月をかけて視察しました」と同内容を補足。"
+    }
+  },
+  {
+    "id": "ps_oguri_tadamasa_1868",
+    "person_id": "oguri_tadamasa",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "明治維新により1月にすべての役職を罷免され、上野国群馬郡権田村(現・群馬県高崎市倉渕町権田)への土着を決意。閏4月5日に新政府軍に捕縛され、取り調べを受けないまま翌日、水沼河原で斬首された",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_takasaki_oguri_nenpyo_1868"
+      ],
+      "role": [
+        "u_takasaki_oguri_nenpyo_1868"
+      ],
+      "activity_description": [
+        "u_takasaki_oguri_nenpyo_1868",
+        "u_takasaki_oguri_shuenchi"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "unknown",
+      "role": "unknown",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "高崎市の資料に「明治維新により、1月に全ての役職を罷免され、権田村（現在の倉渕町権田）への土着を決意」とあります。すべての役職を罷免され、幕臣としての所属も同時に失いました。",
+      "role": "高崎市の資料に「明治維新により、1月に全ての役職を罷免され、権田村（現在の倉渕町権田）への土着を決意」とあります。すべての役職を罷免されたため、この年の役職として示せるものがありません。",
+      "activity_description": "略年表「1868年（42歳）明治維新により、1月に全ての役職を罷免され、権田村（現在の倉渕町権田）への土着を決意」、および終焉の地ページ「慶応4（1868）年閏4月5日、上野介と家臣3人は捕縛され何の取り調べもなく、翌日水沼川原において斬首されました」の2つを組み合わせています。"
+    }
+  },
+  {
+    "id": "ps_okubo_toshimichi_1862",
+    "person_id": "okubo_toshimichi",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "needs_review",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の通称(「一蔵」等)を明記した資料には到達できませんでした。国立国会図書館「近代日本人の肖像」には通称の変遷についての記載がない。",
+      "affiliation_text": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「薩摩藩(島津久光)」 / 元の根拠: 国立国会図書館「近代日本人の肖像」に「島津久光のもとで公武合体運動を推進」とあり、文久年間(1862年を含む)に久光の下で活動していたことが明記されている。",
+      "role": "「御小納戸頭取」等の具体的な役職名を明記した資料には到達できませんでした。国立国会図書館「近代日本人の肖像」にも役職名の明記はない。"
+    }
+  },
+  {
+    "id": "ps_okubo_toshimichi_1868",
+    "person_id": "okubo_toshimichi",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "b_ndl_portrait_okubo"
+      ],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の通称を明記した資料には到達できなかった(1862年時点の調査で参照した資料と同じものを参照している)。「利通」への改名時期を明記した資料が見つからず、慶応4年時点で「一蔵」のままだったか「利通」だったか確定できない。",
+      "affiliation_text": "国立国会図書館「近代日本人の肖像」に「岩倉具視らと結んで慶応3(1867)年12月、王政復古のクーデターを敢行」とあり、慶応4(1868)年時点で新政府側の中心人物であったことが読み取れる。",
+      "role": "「参与」という役職名を明記した資料には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_omura_masujiro_1853",
+    "person_id": "omura_masujiro",
+    "as_of": "1853",
+    "start_date": "1853-01-01",
+    "end_date": "1853-12-31",
+    "display_name": null,
+    "affiliation_text": "宇和島藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "嘉永6(1853)年、宇和島藩に出仕し、蘭学の教授を行うとともに軍政改革に参画した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_portrait_omura"
+      ],
+      "role": [],
+      "activity_description": [
+        "s_ndl_portrait_omura"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "引用文にある別称「村田蔵六」は改名時期の明記がなく、1853年時点で名乗っていたかを特定できる資料には到達できませんでした。",
+      "affiliation_text": "引用文「嘉永6(1853)年宇和島藩に出仕」に明記。",
+      "role": "「蘭学の教授を行うとともに軍政改革に参画」は行為の記述で、正式な役職名は述べられていないため「活動」欄に記録し、役職欄には記録していません。",
+      "activity_description": "同上引用文に明記。"
+    }
+  },
+  {
+    "id": "ps_omura_masujiro_1869",
+    "person_id": "omura_masujiro",
+    "as_of": "1869",
+    "start_date": "1869-01-01",
+    "end_date": "1869-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府",
+    "faction_id": null,
+    "role": "兵部大輔",
+    "activity_description": "明治2(1869)年7月、兵部大輔として兵制の近代化に着手したが、同年9月京都で攘夷派浪士に襲われ負傷し、療養中に死亡した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_portrait_omura"
+      ],
+      "role": [
+        "s_ndl_portrait_omura"
+      ],
+      "activity_description": [
+        "s_ndl_portrait_omura"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "引用文にある別称「村田蔵六」は改名時期の明記がなく、1869年時点でどちらの名を使っていたか特定できる資料には到達できませんでした。",
+      "affiliation_text": "引用文「その後、新政府に出仕し、明治2(1869)年7月兵部大輔として」に明記。",
+      "role": "同上引用文に明記。",
+      "activity_description": "引用文「明治2(1869)年7月兵部大輔として兵制の近代化に着手したが、同年9月京都で攘夷派浪士に襲われ負傷し、療養中に死亡した」に明記。"
+    }
+  },
+  {
+    "id": "ps_saigo_takamori_1858",
+    "person_id": "saigo_takamori",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "鹿児島藩(藩主・島津斉彬)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "b_ndl_portrait_saigo"
+      ],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点で名乗っていた通称を明記した資料には到達できませんでした。国立国会図書館「近代日本人の肖像」の本文には通称の変遷が書かれていない。",
+      "affiliation_text": "国立国会図書館「近代日本人の肖像」に「鹿児島藩主島津斉彬に取り立てられる」「安政の大獄と斉彬の死を契機に入水自殺を図る」とあり、1858年(斉彬死去の年)まで斉彬に近侍していたことが読み取れる。",
+      "role": "「御庭方役」という具体的な役職名を明記した資料には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_saigo_takamori_1868",
+    "person_id": "saigo_takamori",
+    "as_of": "1868",
+    "start_date": "1868-01-01",
+    "end_date": "1868-12-31",
+    "display_name": null,
+    "affiliation_text": "新政府方(倒幕派)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "b_ndl_portrait_saigo"
+      ],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点での通称を明記した資料は見つからなかった。",
+      "affiliation_text": "国立国会図書館「近代日本人の肖像」に「討幕へと方向転換をはかり…薩長連合を結ぶ。勝海舟とともに江戸城無血開城を実現し、王政復古のクーデターを成功させた」とあり、慶応4(1868)年の戊辰戦争期には新政府・倒幕方の立場であったことが読み取れる。",
+      "role": "「東征大総督府参謀」という具体的な役職名を明記した資料には到達できませんでした。国立国会図書館「近代日本人の肖像」の「新政府内でも参議として維新の改革を断行」という記述は明治4年以降の参議就任を指しており、1868年時点の役職としては使えないと判断し不採用とした。"
+    }
+  },
+  {
+    "id": "ps_sakamoto_ryoma_1862",
+    "person_id": "sakamoto_ryoma",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "脱藩(土佐藩を離脱)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "勝海舟の門下生(神戸海軍操練所の建設に従事)",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_ryoma"
+      ],
+      "role": [],
+      "activity_description": [
+        "c_ndl_portrait_ryoma"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページ(NDL近代日本人の肖像)の通し記述のみが根拠のため不採用。元の記述: 「坂本龍馬」 / 元の根拠: NDL本文は生涯を通じて一貫して「坂本龍馬(竜馬)」を主語として記述しているが、1862年時点でこの名を名乗っていたと年を特定した一文ではない。",
+      "affiliation_text": "NDL本文「文久元(1861)年武市瑞山が結成した土佐勤王党に参加。2年脱藩して江戸へ出、勝海舟の門下生となり」に基づく(「2年」は文久2年=1862年)。",
+      "role": "正式な役職名ではなく行為の記述のみ確認できたため、活動欄に記載した。元の記述: 「勝海舟の門下生(神戸海軍操練所の建設に従事)」",
+      "activity_description": "同上引用「勝海舟の門下生となり、神戸海軍操練所建設に尽力」に基づく。正式な役職ではなく師事・従事の立場。"
+    }
+  },
+  {
+    "id": "ps_sakamoto_ryoma_1867",
+    "person_id": "sakamoto_ryoma",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-10",
+    "display_name": null,
+    "affiliation_text": "海援隊",
+    "faction_id": null,
+    "role": "海援隊長",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_ryoma"
+      ],
+      "role": [
+        "c_bunka_online_ryoma"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページ(NDL近代日本人の肖像)の通し記述のみが根拠のため不採用。元の記述: 「坂本龍馬」 / 元の根拠: 1867年4月の赦免以降は本名で活動していたとみられ NDL本文の主語も本人だが、1867年時点の名乗りを明記した一文ではない(赦免以前の変名〔才谷梅太郎〕についても原文を確認できる資料に到達できなかった)。",
+      "affiliation_text": "NDL本文「慶応元(1865)年長崎の亀山に社中(のちの海援隊)を開く」から続けて、慶応3年6月の「船中八策」の記述まで同一の活動の連続として書かれている。",
+      "role": "文化遺産オンラインの資料解説の原文に「慶応三年四月から七月にかけての海援隊の記録。龍馬の海援隊長任命状写」とあり、慶応3(1867)年の時点明示が原文内にある。"
+    }
+  },
+  {
+    "id": "ps_sanjo_sanetomi_1854",
+    "person_id": "sanjo_sanetomi",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": null,
+    "affiliation_text": "朝廷(公家)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "安政元年(1854)、家督を継承し元服、昇殿を許された。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_jacar_sanjo"
+      ],
+      "role": [],
+      "activity_description": [
+        "t_jacar_sanjo"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「1854（安政元）年家督継承・元服・昇殿」に明記。昇殿(参内資格)は公家として朝廷に連なる身分であることを示す。",
+      "role": "「家督継承・元服・昇殿」はいずれも身分上の通過儀礼であり、具体的な官職名ではないため「活動」欄に記録し役職欄は この欄には記録していません。",
+      "activity_description": "引用文「1854（安政元）年家督継承・元服・昇殿」に明記。"
+    }
+  },
+  {
+    "id": "ps_sanjo_sanetomi_1863",
+    "person_id": "sanjo_sanetomi",
+    "as_of": "1863",
+    "start_date": "1863-01-01",
+    "end_date": "1863-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "文久3年(1863)8月18日の政変により官位を剥奪され、京都を追放された(七卿落ち)。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_jacar_sanjo"
+      ],
+      "role": [
+        "t_jacar_sanjo"
+      ],
+      "activity_description": [
+        "t_jacar_sanjo"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "unknown",
+      "role": "unknown",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "アジア歴史資料センターの資料に「1863（文久3）年八・一八政変に伴い官位褫奪・京都追放」とあります。官位を褫奪され京都を追放されたため、朝廷に連なる身分としての所属を示せるものがありません。",
+      "role": "アジア歴史資料センターの資料に「1863（文久3）年八・一八政変に伴い官位褫奪・京都追放」とあります。官位を褫奪されたため、この年の役職として示せるものがありません。",
+      "activity_description": "引用文「1863（文久3）年八・一八政変に伴い官位褫奪・京都追放」に明記。"
+    }
+  },
+  {
+    "id": "ps_shimazu_hisamitsu_1858",
+    "person_id": "shimazu_hisamitsu",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "鹿児島藩(薩摩藩)",
+    "faction_id": null,
+    "role": "国父",
+    "activity_description": "兄斉彬の死去と長子忠義の襲封を受け、国父として藩の実権を握った。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_portrait_hisamitsu"
+      ],
+      "role": [
+        "s_ndl_portrait_hisamitsu"
+      ],
+      "activity_description": [
+        "s_ndl_portrait_hisamitsu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。引用文にある「本名は初め忠教、邦行、のち久光と改めた」は改名時期を明記しておらず、1858年時点でどの名を使っていたか特定できない。",
+      "affiliation_text": "引用文「父は鹿児島藩主島津斉興。…安政5(1858)年に斉彬が没し、自身の長子忠義が襲封すると、国父として藩の実権を握る」に明記。",
+      "role": "同上引用文に明記。「国父」は正式な藩の官職名ではないが、出典が明示的に用いている地位の呼称であるため役職欄に採用した。",
+      "activity_description": "同上引用文に明記。"
+    }
+  },
+  {
+    "id": "ps_shimazu_hisamitsu_1862",
+    "person_id": "shimazu_hisamitsu",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "鹿児島藩(薩摩藩)",
+    "faction_id": null,
+    "role": "国父",
+    "activity_description": "藩兵千余を率いて上京し、尊攘激派を抑える一方、江戸へ下り幕政改革を推進した。帰途、生麦事件を起こし、薩英戦争の引金となった。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_portrait_hisamitsu"
+      ],
+      "role": [
+        "s_ndl_portrait_hisamitsu"
+      ],
+      "activity_description": [
+        "s_ndl_portrait_hisamitsu"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1858年時点と同様、この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "1858年時点の「国父として藩の実権を握る」から同じ引用文中で1862年の記述まで、藩から離れたことを示す記述がないため継続推論とした。",
+      "role": "「国父」の地位は1858年の記述が起点。同じ引用文が続けて1862年の上京・幕政改革を記述しており、その間に地位の変更を示す記述がないため継続推論として役職欄に記録した。",
+      "activity_description": "引用文「文久2(1862)年藩兵千余を率いて上京。尊攘激派を抑える一方、江戸へ下り幕政改革を推進。帰途、生麦事件を起こし、薩英戦争の引金となる」に明記。"
+    }
+  },
+  {
+    "id": "ps_shimazu_nariakira_1854",
+    "person_id": "shimazu_nariakira",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": "薩摩守",
+    "affiliation_text": "薩摩藩",
+    "faction_id": null,
+    "role": "藩主",
+    "activity_description": "富国強兵策を取り、西欧科学の導入を図って集成館事業を推進していた。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "affiliation_text": [
+        "s_kagoshima_reimeikan_nariakira",
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "role": [
+        "s_kagoshima_reimeikan_nariakira",
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "activity_description": [
+        "s_kagoshima_reimeikan_nariakira"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "probable",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "probable"
+    },
+    "field_notes": {
+      "display_name": "引用文「1851年（嘉永4）斉興が隠退し斉彬が第28代藩主になり、薩摩守と称するようになった」に基づく。1851年に称するようになったとの記述のみで、1854年時点まで継続したと明記した記述はないが、その間に改称の記述もないため継続推論とした。",
+      "affiliation_text": "黎明館の解説文「島津斉彬（1809～1858）は嘉永4（1851）年，薩摩藩主を襲封した」で薩摩藩主への就任が明記されている。1851年の就任から1858年の死去まで交代の記述がないため、1854年時点も藩主のままと判断した(継続推論)。",
+      "role": "「1851年（嘉永4）斉興が隠退し斉彬が第28代藩主になり」(かごしま市観光ナビ)・「嘉永4（1851）年，薩摩藩主を襲封した」(黎明館)で藩主就任が明記されている。1851年の就任から1858年の死去まで交代の記述がないため継続推論とした。",
+      "activity_description": "鹿児島県歴史・美術センター黎明館の解説文「富国強兵策を取り，西欧科学の導入を計って，集成館事業を推進した」は在任期間(1851～1858)全体を通した総括的記述で、1854年固有の記述ではないため継続推論とした。"
+    }
+  },
+  {
+    "id": "ps_shimazu_nariakira_1858",
+    "person_id": "shimazu_nariakira",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": "薩摩守",
+    "affiliation_text": "薩摩藩",
+    "faction_id": null,
+    "role": "藩主",
+    "activity_description": "上洛の機をうかがい、城下天保山の調練場で練兵の指揮をしていた際に発病し、7月16日に死去した(49歳)。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "affiliation_text": [
+        "s_kagoshima_reimeikan_nariakira",
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "role": [
+        "s_kagoshima_reimeikan_nariakira",
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "activity_description": [
+        "s_kagoshima_yokanavi_nariakira_kyuushi",
+        "s_kagoshima_reimeikan_nariakira"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "probable",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1851年に「薩摩守と称するようになった」との記述から、死去する1858年まで改称の記述がないため継続推論とした。",
+      "affiliation_text": "1851年の藩主就任(黎明館の解説文「薩摩藩主を襲封した」)から死去する1858年まで交代の記述がないため、藩主のままと判断した(継続推論)。",
+      "role": "「1851年（嘉永4）斉興が隠退し斉彬が第28代藩主になり」(かごしま市観光ナビ)・「嘉永4（1851）年，薩摩藩主を襲封した」(黎明館)で藩主就任が明記されている。1851年の就任から死去する1858年まで交代の記述がないため継続推論とした。",
+      "activity_description": "引用文「そして、機を見て上洛する（京都に上る）日に備えて城下天保山の調練場で炎天下に練兵の指揮をしていたとき急病となり、7月16日、ついに帰らぬ人となった。49歳であった」に明記。ただしこの引用文は「7月16日」と日付だけで年を述べていないため、同じ人物の別の出典が示す没年「島津斉彬（1809～1858）」を年の裏づけとして出典に加えた(満49歳という年齢も 1858-1809=49 と整合する)。"
+    }
+  },
+  {
+    "id": "ps_takasugi_shinsaku_1863",
+    "person_id": "takasugi_shinsaku",
+    "as_of": "1863",
+    "start_date": "1863-01-01",
+    "end_date": "1863-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩(萩藩)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "奇兵隊の結成",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_takasugi"
+      ],
+      "role": [],
+      "activity_description": [
+        "c_ndl_portrait_takasugi"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "下関市公式観光サイト・山口県ひとづくり財団「山口県の先人たち」データベースを確認したが、いずれも改名時期・変名使用時期の明記はなかった。",
+      "affiliation_text": "NDL本文「文久3(1863)年萩藩外国船攻撃の際、登用されて奇兵隊を結成し、外国勢と戦う」に明記。",
+      "role": "正式な役職名ではなく行為の記述のみ確認できたため、活動欄に記載した。元の記述: 「奇兵隊の結成・指揮」",
+      "activity_description": "同上引用に基づく行為の記述。出典で「指揮」という語が使われるのは1866年(第二次長州征討)の記述であり、1863年の文脈では「結成し、外国勢と戦う」とあるのみのため、1863年時点の記述は「結成」にとどめている。"
+    }
+  },
+  {
+    "id": "ps_takasugi_shinsaku_1866",
+    "person_id": "takasugi_shinsaku",
+    "as_of": "1866",
+    "start_date": "1866-01-01",
+    "end_date": "1866-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩(萩藩)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "第二次長州征討における長州藩軍の指揮",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_takasugi"
+      ],
+      "role": [],
+      "activity_description": [
+        "c_ndl_portrait_takasugi"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1863年時点と同じ理由により、1866年時点で名乗っていた名前を明記した資料に到達できませんでした。",
+      "affiliation_text": "NDL本文「慶応2(1866)年鹿児島藩との間に薩長連合を締結。同年6月第2次長州征討で指揮をとり、各地で幕府軍を打ち破った」に明記。",
+      "role": "正式な役職名ではなく行為の記述のみ確認できたため、活動欄に記載した。元の記述: 「第二次長州征討における長州藩軍の指揮」",
+      "activity_description": "同上引用に基づく。正式な役職呼称(総督・総管等)を明記した資料はなく、「指揮をとり」という行為の記述のみを役職として記録した。"
+    }
+  },
+  {
+    "id": "ps_takechi_zuizan_1862",
+    "person_id": "takechi_zuizan",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": "柳川左門",
+    "affiliation_text": "土佐勤王党(党主)",
+    "faction_id": null,
+    "role": "党主",
+    "activity_description": "文久2年(1862)4月8日、藩政改革を阻んだ参政・吉田東洋を暗殺し、土佐藩を勤王化することに成功した。同年10月には柳川左門と名乗り、副勅使姉小路公知の雑掌として護衛にあたり江戸へ下った。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "t_kochi_takechi_shiseki"
+      ],
+      "affiliation_text": [
+        "t_kochi_takechi_shiseki"
+      ],
+      "role": [
+        "t_kochi_takechi_shiseki"
+      ],
+      "activity_description": [
+        "t_kochi_takechi_shiseki"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "confirmed",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "引用文「同年10月半平太は柳川左門と称し」に明記。1862年10月の名乗りとして、この年に直接結びつく記述です。",
+      "affiliation_text": "引用文「同年8月大石圓[まどか]らとはかって土佐勤王党の盟約書をつくり、党主となった」により1861年時点で土佐勤王党の党主だったことが明記されている。1862年に党主でなくなった旨の記述は無く、同年4月の吉田東洋暗殺も党の活動として述べられているため、この年も変わっていないものとして推定しています。",
+      "role": "同上の理由で継続推論とした(1861年の党主就任から1862年まで交代の記述がない)。",
+      "activity_description": "引用文「1862（文久2）年4月8日東洋を暗殺して土佐藩を勤王化することに成功した。同年10月半平太は柳川左門と称し、副勅使姉小路公知の雑掌として護衛にあたり東下の大任を果たした」に明記。"
+    }
+  },
+  {
+    "id": "ps_takechi_zuizan_1863",
+    "person_id": "takechi_zuizan",
+    "as_of": "1863",
+    "start_date": "1863-01-01",
+    "end_date": "1863-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "文久3年(1863)3月、京都留守居加役となったが4月に帰国。山内容堂に藩政改革を迫るも公武合体論を変えさせられなかった。同年8月18日の政変により土佐勤王党が弾圧を受け、9月21日に投獄された。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [],
+      "role": [],
+      "activity_description": [
+        "t_kochi_takechi_shiseki"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "needs_review",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1862年時点の「柳川左門」は同年10月の東下時に限定した名乗りで、1863年に継続して使ったとの記述がないため不採用。",
+      "affiliation_text": "年の前半は「京都留守居加役」、後半は投獄と、年内で所属・立場が大きく変わっており、年単位の枠に収まる単一の値を決められなかった(年の途中で立場が変わる場合の扱いは、この時期の他の人物でも同じにしている)。",
+      "role": "同上の理由。「京都留守居加役」は3月〜4月のみの一時的な役目で、年間を通じた役職としては採用しなかった。",
+      "activity_description": "引用文「1863（文久3）年3月には京都留守居加役となったが、4月には帰国し、その後山内容堂に藩政改革をせまったが、容堂の公武合体論をかえることはできなかった。同年8月18日の公武合体派による政変の結果、土佐勤王党も弾圧をうけ、9月21日半平太は投獄された」に明記。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_iemochi_1862",
+    "person_id": "tokugawa_iemochi",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "江戸幕府",
+    "faction_id": null,
+    "role": "第14代将軍",
+    "activity_description": "孝明天皇の妹・和宮と結婚した(公武合体政策の一環)",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_fukui_museum_iemochi"
+      ],
+      "role": [
+        "u_fukui_museum_iemochi"
+      ],
+      "activity_description": [
+        "u_fukui_museum_iemochi"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "その時点の名乗りを個別に明記した資料に到達できませんでした。引用文にある「もとの名前は徳川慶福」は将軍就任前の名で、いつ「家茂」に改めたかの日付は引用文にない。",
+      "affiliation_text": "引用文冒頭「江戸幕府の第14代将軍」は将軍就任年を明示しない一般的な人物紹介であり、1862年時点の記述と同一の文ではない。桜田門外の変(1860年)以降も将軍の地位を退いたという記述がないため、1862年時点でも将軍のままだったと継続推論する。",
+      "role": "同上。「江戸幕府の第14代将軍」という記述自体は年を特定していないため、1862年の役職としては継続推論により推定としています。",
+      "activity_description": "「1862年(文久2年)には孝明天皇の妹・和宮と結婚する」と明記。桜田門外の変後に幕府がすすめた公武合体策の一環であることも同じ文で述べられている。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_iemochi_1866",
+    "person_id": "tokugawa_iemochi",
+    "as_of": "1866",
+    "start_date": "1866-01-01",
+    "end_date": "1866-12-31",
+    "display_name": null,
+    "affiliation_text": "江戸幕府",
+    "faction_id": null,
+    "role": "第14代将軍",
+    "activity_description": "第二次長州征討のため江戸から大坂へ出陣し、同地で病のため21歳で没した",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_fukui_museum_iemochi"
+      ],
+      "role": [
+        "u_fukui_museum_iemochi"
+      ],
+      "activity_description": [
+        "u_fukui_museum_iemochi"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1862年と同じ理由。1866年時点の名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "1862年と同じ理由(継続推論)。1866年の記述までの間に将軍職を退いたという記述がない。",
+      "role": "同上。継続推論のため推定としています。",
+      "activity_description": "「1866年(慶応2年)、第二次長州征討のため、江戸から大坂へ出陣したが、病のため21歳で亡くなる」と明記。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_nariaki_1853",
+    "person_id": "tokugawa_nariaki",
+    "as_of": "1853",
+    "start_date": "1853-01-01",
+    "end_date": "1853-12-31",
+    "display_name": null,
+    "affiliation_text": "江戸幕府",
+    "faction_id": null,
+    "role": "海防参与",
+    "activity_description": "嘉永6年(1853)6月のペリー来航後、老中阿部正弘の下問に対し「衆評の上、決めるがよかろう」と答え、同年7月3日、海防参与に任命された。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_mito_kaibousannyo"
+      ],
+      "role": [
+        "t_mito_kaibousannyo"
+      ],
+      "activity_description": [
+        "t_mito_kaibousannyo"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "confirmed",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "海防参与は幕府が新設した役職であるため所属先を「江戸幕府」とした。引用文「7月3日、斉昭は海防参与に任命され」に明記。「江戸幕府」という所属語は引用文になく、海防参与が幕府の職であることから導いた推論のため推定としています。",
+      "role": "同上引用文に明記。",
+      "activity_description": "引用文「嘉永6年（1853）6月3日、アメリカ東インド艦隊司令長官ペリーが浦賀に来航…このとき、老中阿部正弘は、斉昭に意見を求めています。斉昭は『衆評の上、決めるがよかろう』という意見を呈しました…7月3日、斉昭は海防参与に任命され」に明記。この人物の水戸藩主としての在任状況(隠居の有無)を1853年時点で明示した資料には到達できなかったため、所属は藩ではなく幕府の職のみを記録しています。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_nariaki_1858",
+    "person_id": "tokugawa_nariaki",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "安政5年(1858)、老中堀田正睦の上京・根回し工作にもかかわらず日米修好通商条約の勅許を得られないまま、6月19日に条約が調印された。将軍継嗣をめぐり大老井伊直弼と対立を深め、7月5日、隠居・謹慎の処分を受けた。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [],
+      "role": [],
+      "activity_description": [
+        "t_mito_nitibei"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "needs_review",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "年の前半は幕政に関与する立場、7月5日以降は隠居謹慎処分と、年内で立場が大きく変わっており、年単位の枠に収まる単一の所属を決められなかった。",
+      "role": "同上の理由。",
+      "activity_description": "引用文「老中堀田正睦が上京し…勅許への根回しを期待したものの、孝明天皇のかたくなな姿勢は変わらず、安政5年（1858）3月末堀田はむなしく江戸に戻りました…結局、翌19日に日米修好通商条約は調印されました…逆に7月5日に、慶恕、斉昭、慶永らには隠居や謹慎の処分が…下されました」に明記。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_yoshinobu_1858",
+    "person_id": "tokugawa_yoshinobu",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "一橋家",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "a_ibaraki_hitotsubashi"
+      ],
+      "role": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページ(NDL近代日本人の肖像)の通し記述のみが根拠のため不採用。1858年時点の呼称を個別に明記した資料には到達できませんでした。",
+      "role": "この時点の役職は空欄にしている。以前は「参議」と記載していたが、根拠にしていたのは茨城県立歴史館「徳川慶喜の役職」表から「安政２年」の行と「参議」のセルを人工的につないだ引用で、原文にそのままの形では存在しなかった。片方のセルだけに縮めると年が落ちて記載を裏づけられなくなる。同じ内容を地の文で述べた資料を探したが到達できず、候補にあがった研究論文(細川義「文久二年の将軍後見職徳川慶喜について」史学57巻4号)を実際に確認したところ、この論文は安政2年の任官にも「参議」にも触れていなかった。裏づけの取れない値は載せない方針により空欄としている。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_yoshinobu_1862",
+    "person_id": "tokugawa_yoshinobu",
+    "as_of": "1862",
+    "start_date": "1862-01-01",
+    "end_date": "1862-12-31",
+    "display_name": null,
+    "affiliation_text": "一橋家",
+    "faction_id": null,
+    "role": "将軍後見職",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "a_ibaraki_hitotsubashi"
+      ],
+      "role": [
+        "a_ndl_portrait_147"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "confirmed",
+      "role": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「徳川慶喜」 / 元の根拠: 国立国会図書館「近代日本人の肖像」は本人の生涯を通じて「徳川慶喜」の名で記述しており、文久2年の記述内でも改名の言及はない。ページが1862年の役職変化を明記した同一記事内での確認。",
+      "affiliation_text": "茨城県立歴史館のページ見出しが「徳川慶喜一橋家を継ぐ［1847・弘化4年〜1866・慶応2年］」であり、文久2年(1862)はこの期間に含まれる。同ページの役職表でも文久2年時点の記述がある。",
+      "role": "国立国会図書館「近代日本人の肖像」に「文久2(1862)年朝命により将軍後見職となり」と明記されており、この一文がそのまま根拠になっている。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_yoshinobu_1867",
+    "person_id": "tokugawa_yoshinobu",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": null,
+    "affiliation_text": "徳川宗家",
+    "faction_id": null,
+    "role": "征夷大将軍(将軍)",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "a_ibaraki_15dai_sozoku"
+      ],
+      "role": [
+        "a_ibaraki_15dai"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable"
+    },
+    "field_notes": {
+      "display_name": "現代の解説ページの通し記述のみが根拠のため不採用。元の記述: 「徳川慶喜」 / 元の根拠: 同一のNDL記事内で1867年(慶応3年10月の大政奉還)についても改名の言及なく「徳川慶喜」のまま記述されている。",
+      "affiliation_text": "茨城県立歴史館の年表に「慶喜，徳川宗家家督相続」と明記(徳川慶喜１５代将軍となる(茨城県立歴史館))。大政奉還(慶応3年10月)時点ではこの相続後であり、一橋家ではなく徳川宗家当主の立場。年見出し(慶応2年8月)は表の別セルなので出典の引用範囲には結合せず、1866年の記述から続いているものとして扱っている。",
+      "role": "同ページ本文に「慶喜は，慶応２年１２月５日，京都において将軍宣下を受け，正二位・大納言・征夷大将軍・右近衛大将に任命された」と明記。同ページの主な事件表でも慶応3年10月が大政奉還と記載され、将軍在職中であったことが確認できる。"
+    }
+  },
+  {
+    "id": "ps_yamauchi_yodo_1853",
+    "person_id": "yamauchi_yodo",
+    "as_of": "1853",
+    "start_date": "1853-01-01",
+    "end_date": "1853-12-31",
+    "display_name": null,
+    "affiliation_text": "土佐藩",
+    "faction_id": null,
+    "role": "藩主",
+    "activity_description": "嘉永6年(1853)の黒船来航を契機に藩政改革を断行し、吉田東洋を登用した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_kochi_johaku_yamauchi",
+        "t_ndl_portrait_206"
+      ],
+      "role": [
+        "t_kochi_johaku_yamauchi"
+      ],
+      "activity_description": [
+        "t_ndl_portrait_206"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点(隠居前)の名乗りを明示した資料には到達できなかった(「容堂」は隠居後の号であり1853年時点には未使用のため不採用)。",
+      "affiliation_text": "「家督：嘉永元（1848）年…家督相続」(土佐藩歴代藩主紹介(高知県立高知城歴史博物館))から「隠居：安政6(1859)年」まで藩主のままであり、1853年はその中間にあたるため継続推論とした。",
+      "role": "同上の理由で継続推論とした。",
+      "activity_description": "引用文「嘉永6(1853)年の黒船襲来を契機に藩政改革を断行、吉田東洋を登用し成果を上げる」に明記。"
+    }
+  },
+  {
+    "id": "ps_yamauchi_yodo_1867",
+    "person_id": "yamauchi_yodo",
+    "as_of": "1867",
+    "start_date": "1867-01-01",
+    "end_date": "1867-12-31",
+    "display_name": "容堂",
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "慶応3年(1867)、後藤象二郎の進言を受け入れ、将軍徳川慶喜に大政奉還を建白した。同年2月には西郷隆盛と会見、6月には後藤らと夕顔丸で「船中八策」を協議し、7月8日夜に後藤が建白を訴え、10月3日に建白書が幕府に提出され、10月15日に大政奉還が決定された。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [
+        "t_ndl_portrait_206",
+        "t_kochi_johaku_yamauchi"
+      ],
+      "affiliation_text": [],
+      "role": [],
+      "activity_description": [
+        "t_ndl_portrait_206",
+        "t_kochi_city_taiseihokan"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "probable",
+      "affiliation_text": "needs_review",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "土佐藩歴代藩主紹介(高知県立高知城歴史博物館)「隠居後は容堂」・山内豊信(国立国会図書館)「別称 容堂」に基づく。安政6(1859)年の隠居から1867年まで改号の記述がないため継続推論とした。",
+      "affiliation_text": "1859年の隠居以降、正式な藩の役職・所属を述べた資料には到達できなかった(隠居した前藩主という立場のため、既存の藩名だけを機械的に当てるのは避けた)。",
+      "role": "同上の理由。1867年時点で公式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "山内豊信(国立国会図書館)「慶応3(1867)年後藤象二郎の進言を受け入れ、徳川慶喜に大政奉還を建白」と、高知市広報「あかるいまち」内和外順(2017年3月号)大政奉還150年(高知市)の日付つきの経緯(西郷来藩・夕顔丸での船中八策協議・建白・大政奉還決定)を組み合わせています。"
+    }
+  },
+  {
+    "id": "ps_yoshida_shoin_1854",
+    "person_id": "yoshida_shoin",
+    "as_of": "1854",
+    "start_date": "1854-01-01",
+    "end_date": "1854-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "欧米遊学を志し、下田に停泊中のペリーの艦隊への同行を申し出たが断られ、自首して入獄した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_jikihitsu_shoin"
+      ],
+      "role": [],
+      "activity_description": [
+        "s_ndl_jikihitsu_shoin"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "引用文にある「通称は寅次郎」は経歴全体を通した紹介文中の記述で、1854年時点に限定した名乗りを明示したものではないため不採用。",
+      "affiliation_text": "引用文冒頭の「長州藩士」は経歴全体を通した紹介文中の記述で対象時点を明示していないが、藩士という身分自体は出生から一貫すると考えられるため継続推論として採用した。",
+      "role": "正式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "引用文「安政元（1854）年に下田に停泊中のペリーの艦隊に同行を申し出たが断られ、自首して入獄」に明記。"
+    }
+  },
+  {
+    "id": "ps_yoshida_shoin_1858",
+    "person_id": "yoshida_shoin",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": "安政5(1858)年12月、再び野山獄に収容された。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_ndl_jikihitsu_shoin"
+      ],
+      "role": [],
+      "activity_description": [
+        "s_ndl_jikihitsu_shoin"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1854年時点と同様、対象時点に限定した名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "1854年時点と同じ理由(継続推論)。",
+      "role": "正式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "引用文「安政5（1858）年12月、再び野山獄に収容され、翌年安政の大獄により刑死した」に明記。"
+    }
+  },
+  {
+    "id": "ps_enomoto_takeaki_1858",
+    "person_id": "enomoto_takeaki",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "長崎海軍伝習所",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_ndl_portrait_enomoto"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「安政3(1856)年長崎海軍伝習所に入所。文久2(1862)年オランダ留学」から、1856年の入所から1862年の渡蘭まで伝習所を離れたことを示す記述がなく、1858年もその中間にあたるため継続推論としています。同じ引用文冒頭の「幕臣」は対象時点を明示しない紹介文中の語のため、この根拠には使っていません。",
+      "role": "伝習生としての具体的な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "1858年についての具体的な記述には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_ito_hirobumi_1858",
+    "person_id": "ito_hirobumi",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "萩藩(伊藤家)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_yamaguchi_tourism_ito_residence"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗り(改姓後の呼び名)を明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「安政元年（1854）に伊藤博文の父・林十蔵が伊藤家の養子となったため、一家をあげて伊藤家に入家」から、1854年の入家以降1868年の兵庫県知事赴任まで伊藤家を離れたことを示す記述がないため、1858年も継続しているものとして推定しています(同じ人物の1854年の既存記録と同じ書き方です)。",
+      "role": "正式な役職名を述べた資料には到達できませんでした。なお同じ引用文には「萩の松下村塾には17歳のときこの家から通いました」ともありますが、生年(1841年10月16日)から数えると17歳になるのは1858年10月16日以降で、1858年の大半(1〜10月)は16歳にあたります。年齢からの逆算でしか年を特定できず、1858年を通じて松下村塾に通っていたと言い切れないため、この年の役職・所属としては採用せず空欄にしています。なおこの資料の「17歳のとき」が数え年か満年齢かは資料自身が明らかにしておらず、数え年であれば17歳は1857年にあたって1858年とは重なりません。",
+      "activity_description": "1858年についての具体的な記述には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_kusaka_genzui_1858",
+    "person_id": "kusaka_genzui",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_yamaguchi_lib_kusaka"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "安政元年(1854)の家督相続から、安政3年(1856)の松下村塾入塾・安政4年(1857)の結婚を経ても長州藩を離れたことを示す記述がなく、次の日付のある出来事(文久2年〔1862〕のイギリス公使館焼き討ち)まで変化がないため、1858年も継続しているものとして推定しています(同じ人物の1854年・1864年の既存記録と同じ書き方です)。",
+      "role": "正式な役職名を述べた資料には到達できませんでした(家督相続や松下村塾入塾は身分・所属の記述であり、役職名ではないため)。",
+      "activity_description": "1858年についての具体的な記述には到達できませんでした。安政3年(1856)の松下村塾入塾・安政4年(1857)の結婚はいずれも1858年より前の出来事のため、この年の活動としては採用していません。"
+    }
+  },
+  {
+    "id": "ps_matsudaira_katamori_1858",
+    "person_id": "matsudaira_katamori",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "会津藩(藩主)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_ndl_portrait_katamori"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「嘉永5(1852)年襲封。文久2(1862)年京都守護職に任じられ上洛」から、1852年に会津藩主となってから1862年に京都守護職に就くまで藩主のままだったと読めるため、1858年もその中間にあたるとして継続推論としています(同じ人物の1862年・1868年の記録でも同じ書き方「会津藩(藩主)」を使っています)。",
+      "role": "京都守護職への就任は文久2(1862)年で、1858年時点ではまだ就いていません。藩主であること以外に正式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "1858年についての具体的な記述には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_sanjo_sanetomi_1858",
+    "person_id": "sanjo_sanetomi",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "朝廷(公家)",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_jacar_sanjo"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「1854（安政元）年家督継承・元服・昇殿」から、次の日付のある出来事「1862（文久2）年議奏加勢」まで朝廷を離れたことを示す記述がないため、1858年も継続しているものとして推定しています(同じ人物の1854年の既存記録と同じ書き方です)。",
+      "role": "家督継承・元服・昇殿はいずれも身分上の通過儀礼であり具体的な官職名ではなく、1862年の議奏加勢より前の時点で正式な役職名を述べた資料には到達できませんでした。",
+      "activity_description": "1858年についての具体的な記述には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_takechi_zuizan_1858",
+    "person_id": "takechi_zuizan",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "土佐藩",
+    "faction_id": null,
+    "role": "郷士",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_kochi_takechi_shiseki"
+      ],
+      "role": [
+        "t_kochi_takechi_shiseki"
+      ],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。",
+      "affiliation_text": "引用文「1849（嘉永2）年家督を相続」から、次の日付のある出来事「1861（文久元）年江戸に赴き」まで土佐藩を離れたことを示す記述がないため、1858年も継続しているものとして推定しています。",
+      "role": "引用文「家は郷士で約52石を領した」に基づきます。半平太は1849年にこの家の家督を相続して当主となっているため、本人も郷士の身分だったとして継続推論としています。なお同じ引用文の「祖父・父は白札格となり上士待遇であった」は祖父・父についての記述であり、半平太本人の身分としては採用していません。また「田渕に剣術・槍術の道場を開いた」(1849年)という記述も、1858年時点で継続していたと明示する記述が無いため、役職欄には含めていません。",
+      "activity_description": "1858年についての具体的な記述には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_yamauchi_yodo_1858",
+    "person_id": "yamauchi_yodo",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "土佐藩",
+    "faction_id": null,
+    "role": "藩主",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_kochi_johaku_yamauchi"
+      ],
+      "role": [
+        "t_kochi_johaku_yamauchi"
+      ],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明示した資料には到達できませんでした。「容堂」は隠居後(安政6年以降)の号で、1858年時点ではまだ使われていないため採用していません。",
+      "affiliation_text": "引用文「家督：嘉永元（1848）年…家督相続」から「隠居：安政６(1859)年」まで藩主のままで、1858年はその中間にあたるため継続推論としています。",
+      "role": "同上の理由で継続推論としています。",
+      "activity_description": "国立国会図書館の資料には「将軍継嗣問題では一橋慶喜を擁立する一橋派を支援。対立する大老井伊直弼に弾圧を受け」とありますが、この一文自体に年の明記がなく、1858年の出来事だと断定できる根拠が引用文の中に見当たらないため、推測で埋めずに空欄にしています。"
+    }
+  },
+  {
+    "id": "ps_matsudaira_shungaku_1858",
+    "person_id": "matsudaira_shungaku",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "福井藩",
+    "faction_id": null,
+    "role": "藩主(安政5年(1858)7月5日まで)",
+    "activity_description": "安政5年(1858)2月7日、橋本左内を松平慶永(春嶽)の命で上京させた。同年4月22日、幕府は慶永の御暇帰国(藩地への帰国)を認めなかった。同年6月24日、慶永は徳川斉昭らと不時登城し、条約調印を理由に大老井伊直弼を面詰した。同年7月5日、幕府は慶永を「隠居・急度慎」に処し、同日、松平直廉(茂昭)が幕命により福井藩を継いだ。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_fukui_nenpyo_1858_shungaku_inkyo",
+        "u_fukui_nenpyo_1858_shungaku_keishou",
+        "t_fukui_hashimoto_inkyo"
+      ],
+      "role": [
+        "u_fukui_nenpyo_1858_shungaku_inkyo",
+        "t_fukui_hashimoto_inkyo"
+      ],
+      "activity_description": [
+        "u_fukui_nenpyo_1858_shungaku_jokyo",
+        "u_fukui_nenpyo_1858_shungaku_gochakunin",
+        "u_fukui_nenpyo_1858_shungaku_menkitsu",
+        "u_fukui_nenpyo_1858_shungaku_inkyo",
+        "u_fukui_nenpyo_1858_shungaku_keishou",
+        "t_fukui_hashimoto_inkyo"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを個別に明記した資料には到達できませんでした。なお同じ年表の安政5年10月13日条に「慶永，春嶽と号す[家譜].」とあり、1858年の途中(10月13日)に「春嶽」の号を用い始めたことが分かりますが、年の前半は「慶永」のままであり年単位の1つの値には定められないため、値は空欄にしています。",
+      "affiliation_text": "福井市立郷土歴史博物館の資料に「福井藩では、藩主春嶽が隠居慎みを命じられる」とあり、春嶽が福井藩の人であったことが読み取れます。ただしこの一文には年が書かれていないため、推定にとどめています。年の途中で藩主から隠居の身分へ変わったこと(当時の暦で安政5年7月5日)は役職欄と活動欄に記録しています。",
+      "role": "福井市立郷土歴史博物館の資料の「福井藩では、藩主春嶽が隠居慎みを命じられる」という一文と、福井県史年表の安政5年(1858)7月5日の行「幕府，慶永を「隠居・急度慎」とする」を突き合わせると、この日の時点で春嶽が藩主であったことが読み取れます。ただし「藩主」という肩書きを述べているほうの資料には年が書かれておらず、年を書いているほうの年表には「藩主」の語がないため、推定にとどめています。年の前半(1月から7月5日まで)を通して藩主だったと個別に述べた資料もありません。なお同年2月7日(橋本左内へ上京を命じる)・4月22日(御暇帰国を認められず)・6月24日(不時登城して井伊直弼を面詰)の各記述は、藩主としての立場を前提とする行為が7月5日の直前まで続いていたことを示しています。ここに挙げた月日はいずれも当時の暦(和暦)によるもので、西暦の月日とは一致しません。",
+      "activity_description": "福井県史年表(1851年～1860年)の安政5年の各行(2月7日・4月22日・6月24日・7月5日×2)を時系列に並べたもので、いずれも1858年の出来事として日付つきで明記されています。なお「大老」という井伊直弼の肩書きは年表の各行には無く、福井市立郷土歴史博物館の資料の「大老井伊直弼は、徳川慶福を将軍後継に強行決定し」によります。"
+    }
+  },
+  {
+    "id": "ps_tokugawa_iemochi_1858",
+    "person_id": "tokugawa_iemochi",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "紀州藩(安政5年(1858)10月25日まで)。以降は江戸幕府",
+    "faction_id": null,
+    "role": "紀州藩主(安政5年(1858)10月25日まで)。以降は将軍",
+    "activity_description": "安政5年(1858)6月25日、幕府は徳川慶福(のちの家茂)を将軍継嗣とすることを発表した。同年10月25日、慶福は将軍となり家茂を名乗った。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "u_fukui_nenpyo_1858_iemochi_shogun",
+        "u_fukui_museum_iemochi"
+      ],
+      "role": [
+        "u_fukui_nenpyo_1858_iemochi_shogun",
+        "u_fukui_museum_iemochi"
+      ],
+      "activity_description": [
+        "u_fukui_nenpyo_1858_iemochi_keishi",
+        "u_fukui_nenpyo_1858_iemochi_shogun"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "福井県史年表の安政5年10月25日条「徳川慶福，将軍となり家茂を名乗る」から、この日を境に名乗りが「慶福」から「家茂」へ変わったことは分かりますが、年の前半は「慶福」のままであり年単位の1つの値には定められないため、値は空欄にしています。",
+      "affiliation_text": "福井県史年表の安政5年10月25日条に「徳川慶福，将軍となり家茂を名乗る」と明記されており、この日から将軍(江戸幕府)になったことは日付つきで確かめられます。それ以前(安政5年(1858)10月25日まで)が紀州藩主だったことは、福井市立郷土歴史博物館の資料にある「将軍になる前は御三家のひとつである紀州藩(今の和歌山県あたり)紀伊徳川家の藩主だった」という記述によるもので、この資料自体には1858年という年の明記はなく、将軍就任前という相対的な言及にとどまるため、全体としては推定としています。",
+      "role": "同上の理由により、安政5年(1858)10月25日以降「将軍」であったことは日付つきで確かめられますが、それ以前の「紀州藩主」という記述は年を明記しない資料によるものであるため、全体としては推定としています。ここに挙げた月日は当時の暦(和暦)によるもので、西暦の月日とは一致しません。",
+      "activity_description": "福井県史年表の安政5年6月25日条「幕府，徳川慶福の将軍継嗣決定を発表」、同10月25日条「徳川慶福，将軍となり家茂を名乗る」をこの順に並べたもので、いずれも1858年の出来事として日付つきで明記されています。なお10月25日という日付は和暦(安政5年)のままの記述で、資料が西暦換算を示していないため、月日を西暦に換算した表記はしていません(西暦「1858」は年表自体が同じ行に付している年です)。"
+    }
+  },
+  {
+    "id": "ps_kido_takayoshi_1858",
+    "person_id": "kido_takayoshi",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "長州藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "c_kodomo_kido",
+        "c_ndl_portrait_kido_seibotsu"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "1858年時点でこの人物が「桂小五郎」と「木戸孝允」のどちらを名乗っていたかを明記した資料に到達できませんでした(改名は慶応年間以降とする資料はありますが、1858年時点の名乗りそのものを明示してはいません)。",
+      "affiliation_text": "国立国会図書館国際子ども図書館の解説に「長州藩の藩医の子として生まれ、8歳で桂家に養子に入ります」とあり、長州藩に属する家に生まれたことが分かります。生まれた年は国立国会図書館の別の資料に天保4年(1833)と示されています。そこから1858年までの間に長州藩を離れたことを示す記述がないため、この年も変わっていないものとして推定しています。",
+      "role": "同じ資料は1852年に江戸へ剣術修行に出て、入門1年ほどで剣術道場(練兵館)の塾頭を務めたとしていますが、その後いつまで塾頭を続けたか、1858年時点でも塾頭のままだったかを明記した資料には到達できませんでした。江戸から長州へ帰った時期についても、年を明示した公的資料には到達できませんでした。",
+      "activity_description": "同上の理由により、1858年時点の具体的な行動を裏づける資料に到達できなかったため、空欄にしています。"
+    }
+  },
+  {
+    "id": "ps_okubo_toshimichi_1858",
+    "person_id": "okubo_toshimichi",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "薩摩藩",
+    "faction_id": null,
+    "role": "記録所書役助",
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "s_kagoshima_yokanavi_okubo_zou",
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "role": [
+        "s_kagoshima_yokanavi_okubo_zou",
+        "s_kagoshima_yokanavi_okubo_zou_gosokuyaku",
+        "s_kagoshima_yokanavi_nariakira_28dai"
+      ],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "probable",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の通称(「一蔵」等)を明記した資料には到達できませんでした。",
+      "affiliation_text": "鹿児島市観光サイトの解説に「その後、斉彬が藩主になると、大久保父子は許され、利通はもとの仕事に戻ることができた」とあり、薩摩藩の役所に勤める身分だったことが分かります。島津斉彬が藩主になったのは嘉永4(1851)年で(同サイトの別ページに明記)、そこから斉彬が没する安政5(1858)年までの間に藩から離れたという記述がないため、1858年時点も薩摩藩に属していたと継続推論しました。",
+      "role": "同じ解説に「藩の文書を取り扱う記録所の書役助となって役所勤めをするようになった」とあり、いったん罷免された後、島津斉彬が藩主になってからこの職へ復帰したと読み取れます(斉彬が藩主になったのは嘉永4年(1851)なので、復帰はそれ以降のことになります。資料は復帰が藩主就任と同時だったとは述べていません)。次に役職名が変わる記述は「1863（文久3）年には御側役という高い地位まで上り」であり、それまでの間(1858年を含む)に役職が変わったという記述がないため、1858年時点も記録所書役助のままだったと継続推論しました。ただし同じ資料は「斉彬の死後は国のために尽くすことを考え」とも記しており、斉彬の死(1858年7月)を境に大久保の心境の変化を述べているため、1858年後半についてはこの役職が形式上どこまで続いたかを明言する記述ではない点に注意が必要です。",
+      "activity_description": "役職(記録所書役助)を継続推論で埋めたため、それと別に1858年固有の行動を裏づける記述には到達できませんでした。"
+    }
+  },
+  {
+    "id": "ps_sakamoto_ryoma_1858",
+    "person_id": "sakamoto_ryoma",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": "土佐藩",
+    "faction_id": null,
+    "role": null,
+    "activity_description": null,
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [
+        "t_kochi_ryomakan_faq_1858"
+      ],
+      "role": [],
+      "activity_description": []
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "probable",
+      "role": "needs_review",
+      "activity_description": "needs_review"
+    },
+    "field_notes": {
+      "display_name": "この時点の名乗りを明記した資料には到達できませんでした。",
+      "affiliation_text": "高知県立坂本龍馬記念館の「龍馬FAQ」の回答に「この期間、土佐藩を離れての活動は見られません」とあります。「この期間」が1858年から1861年を指すことは、同じページでこの回答の前に置かれた質問文から分かりますが、引用した回答そのものには年が書かれていません。年の特定が同じページの別の箇所に頼っていること、また土佐藩を離れた活動の記録が見られないという書き方であることから、推定にとどめています。",
+      "role": "同じ回答は「土佐藩を離れての活動は見られません」と述べるのみで、この時点で藩内のどのような身分・役割にあったかは明記されていません。",
+      "activity_description": "同じ資料は、この期間について具体的な行動の記録自体が乏しいことを述べており(「土佐藩を離れての活動は見られません」という消極的な記述にとどまる)、1858年に何をしていたかを積極的に述べた記述ではないため、空欄にしています。"
+    }
+  },
+  {
+    "id": "ps_takasugi_shinsaku_1858",
+    "person_id": "takasugi_shinsaku",
+    "as_of": "1858",
+    "start_date": "1858-01-01",
+    "end_date": "1858-12-31",
+    "display_name": null,
+    "affiliation_text": null,
+    "faction_id": null,
+    "role": null,
+    "activity_description": "安政5(1858)年、昌平黌に入学した。",
+    "location_ids": [],
+    "field_sources": {
+      "display_name": [],
+      "affiliation_text": [],
+      "role": [],
+      "activity_description": [
+        "c_ndl_portrait_takasugi_shohei"
+      ]
+    },
+    "field_review_status": {
+      "display_name": "needs_review",
+      "affiliation_text": "needs_review",
+      "role": "needs_review",
+      "activity_description": "confirmed"
+    },
+    "field_notes": {
+      "display_name": "1858年時点の名乗りを個別に明記した資料に到達できませんでした。",
+      "affiliation_text": "この時点の所属を明記した資料に到達できませんでした。同じ資料の別の箇所に「父は萩藩士」という記述はありますが、これは父の身分についての記述で本人自身の所属を1858年時点で述べたものではないため、根拠として採用していません。",
+      "role": "正式な役職・身分を1858年時点で明記した資料には到達できませんでした。",
+      "activity_description": "国立国会図書館「近代日本人の肖像」の記述に、安政5(1858)年に昌平黌へ入学したとあります。同資料は続けて、翌年(安政6年)に藩の命令で帰国したとも記しています。"
+    }
+  }
+]

@@ -1,0 +1,372 @@
+/* events.css — 事件ビュー(events-view.js)+ 因果グラフ(event-graph.js)専用スタイル。
+   色トークン(--ev-node-bg / --ev-node-fg / --ev-line / --ev-line-selected)は styles.css の :root で
+   まとめて定義する。ここでは var(--ev-*, フォールバック値) で参照するのみで :root に定義しない。
+   フォーカス輪郭の専用トークンは無いため --ev-line-selected を流用している(必要になれば styles.css へ
+   --ev-focus を足すだけで効くよう、指定箇所は下の :focus-visible にまとまっている)。
+   色だけで種類・状態を区別しない: 線種(stroke-dasharray)・ラベル文字・aria 属性を併用する(仕様§7.2)。
+   画面幅320pxで崩れないこと(仕様§7.1)を前提に、固定幅を置かず表は横スクロールさせる。 */
+
+/* ---- 事件一覧 ---- */
+
+.event-list-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.event-list-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.5rem;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--ev-line, #767676);
+  border-radius: 4px;
+}
+
+.event-list-item--selected {
+  border-width: 3px;
+  border-color: var(--ev-line-selected, #1a5fb4);
+}
+
+.event-list-button {
+  font-family: inherit;
+  font-size: 1rem;
+  text-align: left;
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
+.event-list-name {
+  font-weight: bold;
+  border-bottom: 1px dashed currentColor;
+  word-break: break-word;
+}
+
+.event-list-button:hover .event-list-name {
+  border-bottom-style: solid;
+}
+
+.event-list-date,
+.event-list-meta,
+.event-list-timing {
+  font-size: 0.85rem;
+}
+
+.event-list-timing--current {
+  font-weight: bold;
+}
+
+/* ---- 事件詳細 ---- */
+
+.event-detail-name {
+  margin: 0.25rem 0 0.1rem;
+}
+
+.event-detail-status {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+}
+
+.event-detail-subheading {
+  margin: 1rem 0 0.25rem;
+}
+
+.event-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.event-field {
+  display: grid;
+  grid-template-columns: minmax(6rem, 9rem) 1fr;
+  gap: 0.2rem 0.6rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--ev-line, #767676);
+}
+
+.event-field-label {
+  font-weight: bold;
+}
+
+.event-field-value {
+  min-width: 0;
+  word-break: break-word;
+}
+
+/* データなしの項目は空欄で見せない(仕様§11)。色に頼らず「(データなし)」の文字自体で示す。 */
+.event-field--missing .event-field-value {
+  font-style: italic;
+}
+
+.event-field-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.event-field-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.4rem;
+}
+
+.event-link-button,
+.event-graph-table-event-button,
+.event-graph-source-button {
+  font-family: inherit;
+  font-size: 0.95em;
+  padding: 0.1rem 0.3rem;
+  background: none;
+  border: none;
+  border-bottom: 1px dashed currentColor;
+  color: inherit;
+  cursor: pointer;
+  word-break: break-word;
+}
+
+.event-link-button:hover,
+.event-graph-table-event-button:hover,
+.event-graph-source-button:hover {
+  border-bottom-style: solid;
+}
+
+/* ---- 因果関係(前後)の一覧 ---- */
+
+.event-relation-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.event-relation-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2rem 0.4rem;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--ev-line, #767676);
+  border-radius: 4px;
+}
+
+.event-relation-direction,
+.event-relation-type,
+.event-relation-description,
+.event-relation-sources-label,
+.event-relation-no-source {
+  font-size: 0.85rem;
+}
+
+.event-relation-type {
+  font-weight: bold;
+}
+
+/* ---- 因果グラフ(SVG) ---- */
+
+.event-graph {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 100%;
+}
+
+.event-graph-svg {
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+}
+
+.event-graph-node {
+  cursor: pointer;
+}
+
+.event-graph-node-box {
+  fill: var(--ev-node-bg, #f4efe4);
+  stroke: var(--ev-node-fg, #2b2620);
+  stroke-width: 1.5;
+}
+
+.event-graph-node-selected .event-graph-node-box {
+  stroke: var(--ev-line-selected, #1a5fb4);
+  stroke-width: 4;
+}
+
+.event-graph-node-label {
+  fill: var(--ev-node-fg, #2b2620);
+  font-size: 13px;
+  pointer-events: none;
+}
+
+.event-graph-node-year {
+  fill: var(--ev-node-fg, #2b2620);
+  font-size: 10px;
+  pointer-events: none;
+}
+
+.event-graph-edge {
+  cursor: pointer;
+}
+
+.event-graph-edge-line {
+  stroke: var(--ev-line, #767676);
+  stroke-width: 2;
+}
+
+.event-graph-edge-selected .event-graph-edge-line {
+  stroke: var(--ev-line-selected, #1a5fb4);
+  stroke-width: 4;
+}
+
+.event-graph-arrow-head {
+  fill: var(--ev-line, #767676);
+}
+
+.event-graph-arrow-head--selected {
+  fill: var(--ev-line-selected, #1a5fb4);
+}
+
+.event-graph-edge-label-bg {
+  fill: var(--ev-node-bg, #f4efe4);
+  fill-opacity: 0.92;
+  stroke: var(--ev-line, #767676);
+  stroke-width: 0.5;
+}
+
+.event-graph-edge-selected .event-graph-edge-label-bg {
+  stroke: var(--ev-line-selected, #1a5fb4);
+  stroke-width: 1;
+}
+
+.event-graph-edge-label {
+  fill: var(--ev-node-fg, #2b2620);
+  font-size: 11px;
+  pointer-events: none;
+}
+
+.event-graph-legend {
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+/* ---- フォーカス可視化(仕様§7.2。専用トークンが無いため --ev-line-selected を流用) ---- */
+
+.event-graph-node:focus,
+.event-graph-edge:focus,
+.event-list-button:focus,
+.event-link-button:focus,
+.event-graph-table-event-button:focus,
+.event-graph-source-button:focus {
+  outline: 3px solid var(--ev-line-selected, #1a5fb4);
+  outline-offset: 2px;
+}
+
+.event-graph-node:focus:not(:focus-visible),
+.event-graph-edge:focus:not(:focus-visible),
+.event-list-button:focus:not(:focus-visible),
+.event-link-button:focus:not(:focus-visible),
+.event-graph-table-event-button:focus:not(:focus-visible),
+.event-graph-source-button:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.event-graph-node:focus-visible,
+.event-graph-edge:focus-visible,
+.event-list-button:focus-visible,
+.event-link-button:focus-visible,
+.event-graph-table-event-button:focus-visible,
+.event-graph-source-button:focus-visible {
+  outline: 3px solid var(--ev-line-selected, #1a5fb4);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .event-graph-edge-line,
+  .event-graph-edge-label-bg {
+    transition: stroke 0.15s ease, stroke-width 0.15s ease;
+  }
+}
+
+/* ---- テキスト代替の表(仕様§7.2) ---- */
+
+.event-graph-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  font-size: 0.9rem;
+}
+
+.event-graph-table thead,
+.event-graph-table tbody,
+.event-graph-table tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.event-graph-table th,
+.event-graph-table td {
+  border: 1px solid var(--ev-line, #767676);
+  padding: 0.35rem 0.5rem;
+  text-align: left;
+  word-break: break-word;
+  vertical-align: top;
+}
+
+.event-graph-table-row-selected {
+  background: color-mix(in srgb, var(--ev-line-selected, #1a5fb4) 12%, transparent);
+}
+
+.eg-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* 画面幅320pxでは項目名と値を縦に積む(仕様§7.1)。
+   因果グラフの表は6列あり、狭い画面で列幅を等分すると1文字ずつ折り返して読めなくなる。
+   列幅を内容に合わせ、表自体を(ページ全体ではなく)表の中で横スクロールさせる。 */
+@media (max-width: 560px) {
+  .event-field {
+    grid-template-columns: 1fr;
+  }
+
+  .event-graph-table {
+    font-size: 0.85rem;
+  }
+
+  .event-graph-table thead,
+  .event-graph-table tbody,
+  .event-graph-table tr {
+    table-layout: auto;
+    width: max-content;
+    min-width: 100%;
+  }
+
+  .event-graph-table th,
+  .event-graph-table td {
+    word-break: normal;
+    min-width: 5.5rem;
+  }
+}

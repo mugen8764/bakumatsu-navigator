@@ -1,0 +1,407 @@
+/* map.css — 地図ビュー(map-view.js)と勢力ビュー(factions-view.js)のスタイル。
+   地図ビューと勢力ビューのスタイルをまとめて置いている(index.html からの <link> が1本で済む)。
+   色トークン(--map-land / --map-water / --map-point / --map-point-selected / --map-focus)は
+   styles.css の :root でまとめて定義する。ここでは var(--map-*, フォールバック値) で参照するのみで、
+   :root に自分で定義しない。
+   色だけで状態を区別しない: 確からしさは記号(● / ≈ / ?)+ 線種(実線/破線/点線)+ aria 属性を併用する。 */
+
+/* ============================================================
+   地図ビュー
+   ============================================================ */
+
+.map-view {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 100%;
+}
+
+.map-mode-note,
+.map-scope-warning,
+.map-data-gap-note,
+.map-attribution,
+.map-empty {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.map-scope-warning,
+.map-data-gap-note {
+  border-left: 4px solid var(--map-point, #8a5a2b);
+  padding-left: 0.5rem;
+}
+
+.map-svg {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  border: 1px solid var(--map-point, #8a5a2b);
+  border-radius: 4px;
+}
+
+.map-water {
+  fill: var(--map-water, #dbe7f0);
+}
+
+/* 幕末期の海岸線(CODH 江戸末期海岸線／水域データセットの簡略化派生物)。
+   evenodd で内側の水域(湖沼)が抜ける。藩境は含まない=描かない(仕様§11)。 */
+.map-land {
+  fill: var(--map-land, #f0ead9);
+  stroke: var(--map-point, #8a5a2b);
+  stroke-width: 0.8;
+  stroke-linejoin: round;
+}
+
+/* ---- 地点(点)---- */
+
+.map-point {
+  cursor: pointer;
+}
+
+/* 見えない当たり判定。小さな点でもタップ・クリックしやすくする(320px幅対応)。 */
+.map-point-hit {
+  fill: transparent;
+}
+
+.map-point-mark {
+  fill: var(--map-point, #8a5a2b);
+  stroke: var(--map-point, #8a5a2b);
+  stroke-width: 2;
+}
+
+/* 選択中の地点は、塗りと輪郭の両方を変えて分かるようにする(太さだけに頼らない) */
+.map-point--selected .map-point-mark {
+  fill: var(--map-point-selected, #1a5fb4);
+  stroke: var(--map-point-selected, #1a5fb4);
+  stroke-width: 4;
+}
+
+.map-point-label {
+  fill: var(--map-point, #8a5a2b);
+  font-size: 15px;
+  paint-order: stroke;
+  stroke: var(--map-land, #f0ead9);
+  stroke-width: 3;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+
+.map-point--selected .map-point-label {
+  fill: var(--map-point-selected, #1a5fb4);
+  font-weight: bold;
+}
+
+.map-point:focus {
+  outline: 3px solid var(--map-focus, #1a73e8);
+  outline-offset: 2px;
+}
+.map-point:focus:not(:focus-visible) {
+  outline: none;
+}
+.map-point:focus-visible {
+  outline: 3px solid var(--map-focus, #1a73e8);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .map-point-mark {
+    transition: stroke 0.15s ease, stroke-width 0.15s ease;
+  }
+}
+
+/* ---- 帰属表示 ---- */
+
+.map-attribution {
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+.map-attribution a {
+  color: inherit;
+}
+
+/* ---- テキスト代替の表(仕様§7.2)---- */
+
+.map-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  font-size: 0.9rem;
+}
+
+.map-table thead,
+.map-table tbody,
+.map-table tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.map-table th,
+.map-table td {
+  border: 1px solid var(--map-point, #8a5a2b);
+  padding: 0.35rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+  word-break: break-word;
+}
+
+.map-table-row--selected {
+  background: color-mix(in srgb, var(--map-point-selected, #1a5fb4) 12%, transparent);
+}
+
+/* データが無いセルは色だけでなく記号つきの文言で示す(文言は JS 側が入れる) */
+.map-table-cell--gap {
+  font-style: italic;
+}
+
+.map-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---- 選択中の地点の詳細 ---- */
+
+.map-detail {
+  border: 1px solid var(--map-point, #8a5a2b);
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+}
+
+.map-detail-heading {
+  font-weight: bold;
+  margin: 0 0 0.5rem;
+}
+
+.map-detail dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.25rem 0.75rem;
+  margin: 0;
+}
+
+.map-detail dt {
+  font-weight: bold;
+}
+
+.map-detail dd {
+  margin: 0;
+}
+
+.map-detail-sources-heading,
+.map-detail-subheading {
+  font-weight: bold;
+  margin: 0.75rem 0 0.25rem;
+}
+
+.map-detail-sources,
+.map-detail-links {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.map-detail-note,
+.map-detail-source-publisher {
+  font-size: 0.9em;
+}
+
+/* ============================================================
+   勢力ビュー
+   ============================================================ */
+
+.faction-list,
+.faction-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 100%;
+}
+
+.faction-list-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.faction-list-item {
+  padding: 0.25rem 0;
+}
+
+.faction-list-item--selected {
+  border-left: 4px solid var(--map-point-selected, #1a5fb4);
+  padding-left: 0.5rem;
+}
+
+.faction-list-status {
+  font-size: 0.9em;
+}
+
+.faction-list-status--gap {
+  font-style: italic;
+}
+
+/* 「結成前でまだ無い(正常)」は「データなし」と字体を分ける(色だけに頼らない)。 */
+.faction-list-status--not-yet {
+  text-decoration: underline dotted;
+}
+
+.faction-detail-name {
+  margin: 0;
+}
+
+.faction-detail-type,
+.faction-detail-summary,
+.faction-detail-asof {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.faction-detail-asof {
+  border-left: 4px solid var(--map-point, #8a5a2b);
+  padding-left: 0.5rem;
+}
+
+/* 「データなし」の告知は色だけに頼らず、破線の枠と斜体で示す */
+.faction-detail-asof--gap {
+  border-left-style: dashed;
+  font-style: italic;
+}
+
+/* 「結成前でまだ無い(正常)」は破線でなく点線+斜体なしで区別する */
+.faction-detail-asof--not-yet {
+  border-left-style: dotted;
+}
+
+.faction-fields {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.35rem 0.75rem;
+  margin: 0;
+}
+
+.faction-field-label {
+  font-weight: bold;
+}
+
+.faction-field-value {
+  margin: 0;
+}
+
+.faction-goals,
+.faction-events,
+.faction-sources {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.faction-detail-subheading,
+.faction-sources-heading {
+  font-weight: bold;
+  margin: 0.75rem 0 0.25rem;
+}
+
+.faction-note,
+.faction-plain-value {
+  font-size: 0.9em;
+}
+
+/* データなしの明示。空欄で見せない(仕様§11) */
+.faction-gap {
+  margin: 0;
+  font-style: italic;
+  opacity: 0.95;
+}
+
+.faction-gap::before {
+  content: '― ';
+}
+
+.faction-changes-summary {
+  margin: 0;
+}
+
+/* ============================================================
+   共通: アプリ内遷移のボタン(リンクではないので button を使う。仕様§7.2)
+   ============================================================ */
+
+.map-link-button,
+.map-table-place-button,
+.faction-link-button,
+.faction-list-button {
+  font-family: inherit;
+  font-size: 0.95em;
+  padding: 0.1rem 0.3rem;
+  background: none;
+  border: none;
+  border-bottom: 1px dashed currentColor;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+
+.faction-list-button {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.map-link-button:hover,
+.map-table-place-button:hover,
+.faction-link-button:hover,
+.faction-list-button:hover {
+  border-bottom-style: solid;
+}
+
+.map-link-button:focus,
+.map-link-button:focus-visible,
+.map-table-place-button:focus,
+.map-table-place-button:focus-visible,
+.faction-link-button:focus,
+.faction-link-button:focus-visible,
+.faction-list-button:focus,
+.faction-list-button:focus-visible {
+  outline: 2px solid var(--map-focus, #1a73e8);
+  outline-offset: 2px;
+}
+
+/* ハンドラが渡されていないときは無効化される(モジュール単体利用時)。
+   無効であることを色だけでなく下線の消失でも示す。 */
+.map-link-button:disabled,
+.map-table-place-button:disabled,
+.faction-link-button:disabled,
+.faction-list-button:disabled {
+  border-bottom: none;
+  cursor: default;
+  opacity: 0.85;
+}
+
+/* ============================================================
+   狭い画面(320px でも崩れない)
+   ============================================================ */
+
+@media (max-width: 480px) {
+  .map-detail dl,
+  .faction-fields {
+    grid-template-columns: 1fr;
+  }
+
+  .map-table {
+    font-size: 0.8rem;
+  }
+
+  .map-point-label {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "alias_kido_katsurakogoro",
+    "person_id": "kido_takayoshi",
+    "alias": "桂小五郎",
+    "reading": "かつらこごろう",
+    "alias_type": "former_name",
+    "source_ids": [
+      "c_ndl_portrait_kido_alias"
+    ],
+    "review_status": "confirmed",
+    "notes": ""
+  },
+  {
+    "id": "alias_kido_shogiku",
+    "person_id": "kido_takayoshi",
+    "alias": "松菊",
+    "reading": "しょうぎく",
+    "alias_type": "go",
+    "source_ids": [
+      "c_ndl_portrait_kido_alias"
+    ],
+    "review_status": "confirmed",
+    "notes": "号(雅号)"
+  },
+  {
+    "id": "alias_katsu_rintaro",
+    "person_id": "katsu_kaishu",
+    "alias": "麟太郎",
+    "reading": "りんたろう",
+    "alias_type": "common_name",
+    "source_ids": [
+      "a_ndl_nikki_katsukaishu",
+      "a_jacar_hatamoto51"
+    ],
+    "review_status": "confirmed",
+    "notes": "通称"
+  },
+  {
+    "id": "alias_katsu_awa",
+    "person_id": "katsu_kaishu",
+    "alias": "安房",
+    "reading": "あわ",
+    "alias_type": "common_name",
+    "source_ids": [
+      "a_ndl_nikki_katsukaishu",
+      "a_jacar_hatamoto51"
+    ],
+    "review_status": "confirmed",
+    "notes": "安房守の称。「勝安房」として文書等に用いられた。"
+  },
+  {
+    "id": "alias_katsu_kaishu_go",
+    "person_id": "katsu_kaishu",
+    "alias": "海舟",
+    "reading": "かいしゅう",
+    "alias_type": "go",
+    "source_ids": [
+      "a_ndl_nikki_katsukaishu"
+    ],
+    "review_status": "confirmed",
+    "notes": "号(雅号)。「勝海舟」の呼称の由来。"
+  }
+]

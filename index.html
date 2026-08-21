@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>幕末人物・勢力ナビ</title>
+  <meta name="description" content="幕末(1853〜1869年)の人物・勢力・事件・場所を、時点を切り替えながら相互に辿れる学習ツール。すべての記述に、公的機関が公開する資料からの逐語引用を出典として添えています。" />
+  <link rel="stylesheet" href="src/styles.css" />
+  <link rel="stylesheet" href="src/relation-graph.css" />
+  <link rel="stylesheet" href="src/events.css" />
+  <link rel="stylesheet" href="src/map.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">本文へスキップ</a>
+
+  <!-- 常設の読み上げ領域。
+       各ビューは再描画のたびに container.innerHTML を作り直すため、ビューの内側に置いた aria-live は
+       更新のたびに破棄され、支援技術に変更が伝わらない。この要素は誰も作り直さない位置に置く。 -->
+  <div id="a11y-live" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+
+  <header class="app-header">
+    <h1 class="app-header-title">
+      幕末人物・勢力ナビ
+      <span class="app-header-badge">1853〜1869</span>
+    </h1>
+    <p class="app-header-note">
+      年を切り替えると、その時点の名乗り・所属・役職が入れ替わります。記述にはすべて出典を添えています。
+    </p>
+  </header>
+
+  <main id="main">
+    <div id="fatal-error" class="fatal-error" role="alert" hidden></div>
+
+    <section id="timeline" class="app-section" aria-label="時点選択"></section>
+
+    <!-- 表示の切り替え。人物・事件・勢力・地図の4面はそれぞれ独立した器で、
+         どの面からでも他の面の対象へ移動できる。選択中の面は URL の view= に入る。 -->
+    <nav id="view-nav" class="view-nav" aria-label="表示の切り替え"></nav>
+
+    <!-- ---- 人物 ---- -->
+    <div id="view-people" class="view-panel">
+      <div class="layout-grid">
+        <div class="layout-col layout-col-nav">
+          <section id="search" class="app-section" aria-label="人物検索"></section>
+          <section id="people-list" class="app-section" aria-label="人物一覧"></section>
+        </div>
+        <div class="layout-col layout-col-detail">
+          <section id="person-detail" class="app-section" aria-label="人物詳細"></section>
+          <section id="relation-graph-section" class="app-section" aria-label="人物相関図">
+            <h2 class="section-heading">人物相関図</h2>
+            <div id="relation-graph"></div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    <!-- ---- 事件 ---- -->
+    <div id="view-events" class="view-panel" hidden>
+      <div class="layout-grid">
+        <div class="layout-col layout-col-nav">
+          <section id="event-list" class="app-section" aria-label="事件一覧"></section>
+        </div>
+        <div class="layout-col layout-col-detail">
+          <section id="event-detail" class="app-section" aria-label="事件詳細"></section>
+          <section id="event-graph" class="app-section" aria-label="事件の因果グラフ"></section>
+        </div>
+      </div>
+    </div>
+
+    <!-- ---- 勢力 ---- -->
+    <div id="view-factions" class="view-panel" hidden>
+      <div class="layout-grid">
+        <div class="layout-col layout-col-nav">
+          <section id="faction-list" class="app-section" aria-label="勢力一覧"></section>
+        </div>
+        <div class="layout-col layout-col-detail">
+          <section id="faction-detail" class="app-section" aria-label="勢力詳細"></section>
+        </div>
+      </div>
+    </div>
+
+    <!-- ---- 地図 ---- -->
+    <div id="view-map" class="view-panel" hidden>
+      <section id="map-controls" class="app-section" aria-label="地図の表示モード"></section>
+      <section id="map" class="app-section" aria-label="地図"></section>
+    </div>
+
+    <!-- 出典はどの面からでも開くので、面の外側に常設する。 -->
+    <section id="sources" class="app-section" aria-label="出典"></section>
+  </main>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

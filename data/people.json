@@ -1,0 +1,544 @@
+[
+  {
+    "id": "tokugawa_yoshinobu",
+    "canonical_name": "徳川慶喜",
+    "reading": null,
+    "birth_date": "1837-10-28",
+    "death_date": "1913-11-22",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "徳川慶喜は、文久2(1862)年に朝廷の命で将軍後見職となり、幕政改革を推進した。慶応2(1866)年、第15代将軍に就任した。翌年10月には高知藩(土佐藩)の建白を受けて大政奉還を行い、徳川家の権力回復を図ったが、倒幕派に敗れて恭順・謹慎した。",
+    "later_known_for": "第15代将軍として慶応3(1867)年に大政奉還を行った人物として知られる。維新後の明治2(1869)年に謹慎を解かれて駿府に居住し、のち東京へ移り、明治35(1902)年に公爵を授けられた。",
+    "source_ids": [
+      "a_ndl_portrait_147",
+      "a_ndl_portrait_147_seibotsu",
+      "a_ndl_portrait_147_ishingo"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "ii_naosuke",
+    "canonical_name": "井伊直弼",
+    "reading": null,
+    "birth_date": "1815-11-29",
+    "death_date": "1860-03-24",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "井伊直弼は彦根藩主。嘉永6(1853)年のペリー来航後の政局のなかで、安政5(1858)年4月、アメリカとの調印問題や将軍後継者問題という内外の難局を打開するため、将軍徳川家定の意向により大老に就任した。大老として幕政に尽力したが、安政7年3月3日(新暦1860年3月24日)、江戸城外の桜田門前で反対派の浪士に襲撃され、命を落とした。",
+    "later_known_for": "",
+    "source_ids": [
+      "a_hikone_history",
+      "m_chiyoda_sakuradamongai",
+      "a_kodomo_naosuke_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "katsu_kaishu",
+    "canonical_name": "勝海舟",
+    "reading": null,
+    "birth_date": "1823-03-12",
+    "death_date": "1899-01-19",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "勝海舟は幕臣。長崎海軍伝習所で蘭学・西洋兵学を修めた。万延元(1860)年、咸臨丸艦長として渡米した。文久2(1862)年に軍艦奉行並、元治元(1864)年に軍艦奉行となり、神戸に海軍操練所を開いて幕臣のほか坂本龍馬ら諸藩の志士を教育した。戊辰戦争では西郷隆盛を説得し、江戸城の無血開城を実現した。",
+    "later_known_for": "戊辰戦争で西郷隆盛と交渉し、江戸城の無血開城を実現した人物として知られる。維新後は新政府で海軍大輔、参議兼海軍卿、元老院議官等を歴任した。",
+    "source_ids": [
+      "a_ndl_portrait_51",
+      "a_ndl_nikki_katsukaishu",
+      "a_ndl_portrait_51_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "saigo_takamori",
+    "canonical_name": "西郷隆盛",
+    "reading": null,
+    "birth_date": "1828-01-23",
+    "death_date": "1877-09-24",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "西郷隆盛は明治維新の指導者。鹿児島藩主島津斉彬に取り立てられたが、安政の大獄と斉彬の死を契機に入水自殺を図った。その後、公武合体を目指す島津久光のもとで活躍したが久光と衝突して配流された。召還後は第一次長州征討で幕府側の参謀として活躍し、以後は討幕へと方向転換して坂本龍馬の仲介で長州の木戸孝允と薩長同盟を結び、勝海舟とともに江戸城無血開城を実現し、王政復古のクーデターを成功させた。",
+    "later_known_for": "新政府では参議として維新の改革にあたったが、明治6(1873)年に征韓論に敗れて下野し、明治10(1877)年に郷里の私学校生徒に促されて西南戦争を起こし、政府軍に敗れて自刃した人物として知られる。",
+    "source_ids": [
+      "b_ndl_portrait_saigo",
+      "b_ndl_portrait_saigo_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "okubo_toshimichi",
+    "canonical_name": "大久保利通",
+    "reading": null,
+    "birth_date": "1830-09-26",
+    "death_date": "1878-05-14",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "大久保利通は明治維新の指導者。島津久光のもとで公武合体運動を推進したが、やがて討幕へ転じて薩長同盟を成立させ、岩倉具視らと結んで慶応3(1867)年12月、王政復古のクーデターを敢行した。新政府では版籍奉還や廃藩置県を推進して基礎を固め、参議・大蔵卿を経て岩倉遣外使節団に随行した。",
+    "later_known_for": "新政府で参議兼内務卿として政権を掌握し、地租改正や殖産興業を推進したが、明治11(1878)年に士族に暗殺された人物として知られる。",
+    "source_ids": [
+      "b_ndl_portrait_okubo",
+      "b_ndl_portrait_okubo_seibotsu",
+      "b_ndl_portrait_okubo_meiji"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "iwakura_tomomi",
+    "canonical_name": "岩倉具視",
+    "reading": null,
+    "birth_date": "1825-10-26",
+    "death_date": "1883-07-20",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "岩倉具視は公家出身の政治家。堀河康親の子として生まれ、岩倉具慶の養嗣子となった。安政元(1854)年に孝明天皇の侍従となったが、日米修好通商条約の勅許問題では阻止をはかり、後に公武合体派として和宮降嫁を推進したことで「四奸」の一人と非難され、慶応3年まで幽居した。その後は討幕へ転じ、同年12月に大久保利通らと王政復古のクーデターを画策し、新政府では参与・議定・大納言・右大臣などを歴任した。",
+    "later_known_for": "明治4(1871)年に特命全権大使として使節団を率いて欧米を視察し、欽定憲法制定の方針を確定するなど新政府の中枢を担った公家出身の政治家。",
+    "source_ids": [
+      "b_ndl_portrait_iwakura",
+      "b_ndl_portrait_iwakura_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "kido_takayoshi",
+    "canonical_name": "木戸孝允",
+    "reading": null,
+    "birth_date": "1833-08-11",
+    "death_date": "1877-05-26",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "木戸孝允は政治家。王政復古のクーデター後、五箇条の誓文の草案を起草した。参与に任ぜられ、版籍奉還の実現に尽力し、明治3(1870)年6月には参議となった。",
+    "later_known_for": "五箇条の誓文の草案を起草した政治家として知られる。",
+    "source_ids": [
+      "c_ndl_portrait_kido",
+      "c_ndl_portrait_kido_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "takasugi_shinsaku",
+    "canonical_name": "高杉晋作",
+    "reading": null,
+    "birth_date": "1839-09-27",
+    "death_date": "1867-05-17",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "高杉晋作は幕末の政治家。文久3(1863)年、萩藩が外国船を攻撃した際に登用されて奇兵隊を結成し、外国勢と戦った。元治元(1864)年には四国連合艦隊との講和交渉で正使を務めた。第一次長州征討の後は藩論を討幕へと転換させ、慶応2(1866)年に鹿児島藩との間で薩長同盟を締結し、同年6月の第二次長州征討では指揮をとって各地で幕府軍を打ち破ったが、翌年に馬関で病死した。",
+    "later_known_for": "",
+    "source_ids": [
+      "c_ndl_portrait_takasugi",
+      "c_ndl_portrait_takasugi_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "sakamoto_ryoma",
+    "canonical_name": "坂本龍馬",
+    "reading": null,
+    "birth_date": "1835",
+    "death_date": "1867-12-10",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "坂本龍馬は幕末の政治家。文久元(1861)年、武市瑞山が結成した土佐勤王党に参加した。文久2(1862)年に脱藩して江戸に出て勝海舟の門下生となり、神戸海軍操練所の建設に尽力した。慶応元(1865)年には長崎の亀山に社中(のちの海援隊)を開き、薩長同盟の締結に努力して慶応2(1866)年には西郷隆盛と木戸孝允の盟約に立ち会った。慶応3(1867)年6月、後藤象二郎とともに長崎から海路上京する船中で、独自の国家構想である「船中八策」をまとめた。",
+    "later_known_for": "",
+    "source_ids": [
+      "c_ndl_portrait_ryoma",
+      "c_ndl_portrait_ryoma_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "matsudaira_katamori",
+    "canonical_name": "松平容保",
+    "reading": null,
+    "birth_date": "1836-02-15",
+    "death_date": "1893-12-05",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "松平容保は幕末の大名。高須藩主松平家に生まれ、会津藩主松平容敬の養子となり、嘉永5(1852)年に襲封した。文久2(1862)年に京都守護職に任じられて上洛し、同年の八月十八日の政変で萩藩の勢力を京都から駆逐するなど京都の治安と公武合体に力を尽くし、孝明天皇の信頼を得た。元治元(1864)年の禁門の変では長州勢を攻撃し、征長強硬論を持論とした。慶応3(1867)年の王政復古で京都守護職を免ぜられ、翌明治元(1868)年には鳥羽・伏見の戦いで敗れて会津で謹慎したが、新政府軍に攻められて降伏した。",
+    "later_known_for": "会津で謹慎したのち新政府軍に攻められて降伏し、明治13(1880)年に日光東照宮の宮司となった元会津藩主。",
+    "source_ids": [
+      "c_ndl_portrait_katamori",
+      "c_ndl_portrait_katamori_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "shimazu_nariakira",
+    "canonical_name": "島津斉彬",
+    "reading": null,
+    "birth_date": "1809",
+    "death_date": "1858",
+    "birth_place_id": "edo",
+    "aliases": [],
+    "summary": "薩摩藩第28代藩主。嘉永4(1851)年に襲封し、富国強兵策のもと西欧科学の導入を図って集成館事業を推進した。西郷隆盛・大久保利通らを登用し、将軍継嗣問題では一橋派の中心となって幕末改革を図ったが、上洛を控えた在任中に急死した。",
+    "later_known_for": "集成館事業による近代化と、西郷隆盛・大久保利通ら人材登用で知られる薩摩藩主。",
+    "source_ids": [
+      "s_kagoshima_reimeikan_nariakira",
+      "s_kagoshima_yokanavi_nariakira",
+      "s_kagoshima_yokanavi_nariakira_28dai",
+      "s_kagoshima_yokanavi_nariakira_kyuushi"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "shimazu_hisamitsu",
+    "canonical_name": "島津久光",
+    "reading": null,
+    "birth_date": "1817-12-02",
+    "death_date": "1887-12-06",
+    "birth_place_id": "kagoshima",
+    "aliases": [],
+    "summary": "薩摩藩主島津斉興の子で、島津斉彬の異母弟。安政5(1858)年に斉彬が没し、自身の長子忠義が藩主を襲封すると、国父として藩の実権を握った。公武合体運動の中心的存在となり、文久2(1862)年には藩兵を率いて上京、江戸で幕政改革を推進したが、帰途に生麦事件を起こし薩英戦争の引金となった。後年、西郷隆盛や大久保利通が台頭すると政局を委ねた。維新後は左大臣を務めたが、政府の欧化政策に反対して辞官し、郷里に隠棲した。",
+    "later_known_for": "国父として薩摩藩政の実権を握り、公武合体運動を主導した(生麦事件・薩英戦争を招いた)。",
+    "source_ids": [
+      "s_ndl_portrait_hisamitsu",
+      "s_kagoshima_yokanavi_hisamitsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "komatsu_tatewaki",
+    "canonical_name": "小松帯刀",
+    "reading": null,
+    "birth_date": "1835-12-03",
+    "death_date": "1870-08-16",
+    "birth_place_id": "kagoshima",
+    "aliases": [],
+    "summary": "薩摩国喜入の領主肝付兼善の子として鹿児島城下に生まれ、後に小松清猷の養子となり、藩主島津斉彬の小姓となった。藩政改革派として藩政に携わり家老となる。慶応2(1866)年1月、西郷隆盛とともに木戸孝允らとの間で薩長同盟を締結し、慶応3(1867)年10月には将軍徳川慶喜に大政奉還を進言した。明治元(1868)年に総裁局顧問に就任するなど新政府でも重きをなしたが、明治2(1869)年5月、病気のため官を辞した。",
+    "later_known_for": "薩長同盟の締結や大政奉還の進言に関わった薩摩藩家老。",
+    "source_ids": [
+      "s_ndl_portrait_komatsu",
+      "s_kagoshima_yokanavi_komatsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "yoshida_shoin",
+    "canonical_name": "吉田松陰",
+    "reading": null,
+    "birth_date": "1830",
+    "death_date": "1859",
+    "birth_place_id": "hagi",
+    "aliases": [],
+    "summary": "長州藩士、幕末の思想家・教育者。通称は寅次郎。欧米遊学を志し、安政元(1854)年に下田停泊中のペリー艦隊への同行を試みたが断られ、自首して入獄。安政2(1855)年の出獄後、生家で松下村塾を主宰し、久坂玄瑞・高杉晋作・伊藤博文・山県有朋ら多くの志士を育成した。安政5(1858)年12月に再び野山獄へ収容され、翌年、安政の大獄により刑死した。",
+    "later_known_for": "松下村塾で久坂玄瑞・高杉晋作・伊藤博文・山県有朋らを育成した思想家・教育者。",
+    "source_ids": [
+      "s_ndl_jikihitsu_shoin",
+      "s_yamaguchi_tourism_shoin_birthplace"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "kusaka_genzui",
+    "canonical_name": "久坂玄瑞",
+    "reading": null,
+    "birth_date": "1840",
+    "death_date": "1864",
+    "birth_place_id": "hagi",
+    "aliases": [],
+    "summary": "長州藩医久坂良迪の三男として長門国萩の平安古に生まれる。母、次いで兄・玄機と父を相次いで亡くし、安政元(1854)年に家督を継いだ。安政3年に松下村塾へ入り、翌年、吉田松陰の妹・文と結婚。攘夷運動の指導的立場として、文久2(1862)年のイギリス公使館焼き討ちや、光明寺党を結成しての外国船砲撃に関わったが、元治元(1864)年の禁門の変(蛤御門の変)で負傷し、鷹司邸で自刃した。25歳没。",
+    "later_known_for": "松下村塾で高杉晋作と並び「双璧」と呼ばれ、禁門の変で自刃した長州藩の攘夷運動指導者。",
+    "source_ids": [
+      "s_yamaguchi_lib_kusaka"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "ito_hirobumi",
+    "canonical_name": "伊藤博文",
+    "reading": null,
+    "birth_date": "1841-10-16",
+    "death_date": "1909-10-26",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "萩藩下級藩士の養子となった林十蔵(伊藤家を継ぎ伊藤姓)の子として、熊毛郡束荷村(現・山口県光市)に生まれ、9歳のとき萩に移住した。吉田松陰に師事して松下村塾に学び、木戸孝允・高杉晋作らと尊王攘夷運動に挺身。明治4(1871)年、岩倉遣外使節団に特命副使として参加。大久保利通の死後は内務卿を継ぎ、明治18(1885)年に内閣制度を創設して初代内閣総理大臣に就任、大日本帝国憲法の制定を指導した。枢密院議長・貴族院議長・首相(4度)・初代韓国統監等を歴任し、明治42(1909)年、ハルビン駅頭で安重根により暗殺された。",
+    "later_known_for": "初代内閣総理大臣として内閣制度を創設し、大日本帝国憲法の制定を指導した政治家。",
+    "source_ids": [
+      "s_ndl_portrait_ito",
+      "s_yamaguchi_lib_ito",
+      "s_archives_ito"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "omura_masujiro",
+    "canonical_name": "大村益次郎",
+    "reading": null,
+    "birth_date": "1825-06-18",
+    "death_date": "1869-12-07",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "周防国吉敷郡鋳銭司村(現・山口市)の医師村田孝益の長男として生まれ、緒方洪庵の適塾で蘭学を学び塾頭を務めた。嘉永6(1853)年に宇和島藩へ出仕して軍政改革に参画し、後に幕府講武所教授を経て、万延元(1860)年に萩藩雇士となる。第二次長州征討では石州口軍事参謀として活躍し、藩の軍制改革を進めた。新政府出仕後の明治2(1869)年7月、兵部大輔として兵制の近代化に着手したが、同年9月に京都で攘夷派浪士に襲われ負傷し、療養中に死亡した。",
+    "later_known_for": "兵部大輔として新政府の軍制改革に着手した長州藩出身の兵学者(通称・村田蔵六)。",
+    "source_ids": [
+      "s_ndl_portrait_omura",
+      "s_yamaguchi_lib_omura"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "nakaoka_shintaro",
+    "canonical_name": "中岡慎太郎",
+    "reading": null,
+    "birth_date": "1838",
+    "death_date": "1867",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "土佐藩出身。脱藩後、陸援隊を結成した。",
+    "later_known_for": "慶応3年に陸援隊を結成した。同年、京都近江屋で龍馬と会談中に刺客に襲われ、30歳で死去した。",
+    "source_ids": [
+      "t_nakaoka_about_birth",
+      "t_nakaoka_about_death",
+      "t_nakaoka_about_ryakureki"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "takechi_zuizan",
+    "canonical_name": "武市瑞山",
+    "reading": null,
+    "birth_date": "1829",
+    "death_date": "1865",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "土佐藩郷士。土佐勤王党を結成して党主となり、吉田東洋の暗殺を経て藩論を勤王方針に導いた。",
+    "later_known_for": "文久3年の政変後、土佐勤王党への弾圧により投獄され、慶応元年に切腹を命じられた。",
+    "source_ids": [
+      "t_kochi_takechi_shiseki",
+      "t_kochi_pref_takechi_kikaku"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "yamauchi_yodo",
+    "canonical_name": "山内容堂",
+    "reading": null,
+    "birth_date": "1827-11-27",
+    "death_date": "1872-07-26",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "土佐藩15代藩主(山内豊信)。将軍継嗣問題では一橋派として活動し、大老井伊直弼と対立して安政6年に隠居謹慎となった。隠居後は「容堂」と号した。",
+    "later_known_for": "謹慎が解かれた後は公武合体を志向し、慶応3年に後藤象二郎の進言を受けて将軍徳川慶喜に大政奉還を建白、実行に導いた。",
+    "source_ids": [
+      "t_kochi_johaku_yamauchi",
+      "t_ndl_portrait_206"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "goto_shojiro",
+    "canonical_name": "後藤象二郎",
+    "reading": null,
+    "birth_date": "1838-04-13",
+    "death_date": "1897-08-04",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "土佐藩出身の政治家。山内容堂に登用されて藩政の実権を握り、坂本龍馬の構想に賛同して大政奉還を容堂・将軍徳川慶喜に説いた。",
+    "later_known_for": "維新後は新政府で要職に就いたが、明治6(1873)年の征韓論問題で参議を辞任。板垣退助らと民撰議院設立建白書を提出し、自由党結成に加わった。",
+    "source_ids": [
+      "t_ndl_portrait_78",
+      "t_kochi_city_taiseihokan"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "komei_tenno",
+    "canonical_name": "孝明天皇",
+    "reading": null,
+    "birth_date": "1831",
+    "death_date": "1867",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "日米修好通商条約への勅許を拒み続けるなど攘夷を志向する姿勢を示す一方、妹・和宮親子内親王と将軍徳川家茂の婚姻を、当初の反対から最終的に承諾した。",
+    "later_known_for": "",
+    "source_ids": [
+      "t_ndl_auth_komei",
+      "t_mito_nitibei",
+      "t_iwaki_ando"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "sanjo_sanetomi",
+    "canonical_name": "三条実美",
+    "reading": null,
+    "birth_date": "1837-03-14",
+    "death_date": "1891-02-18",
+    "birth_place_id": "kyoto",
+    "aliases": [],
+    "summary": "公家出身の政治家。尊王攘夷派公家の中心的存在として国事御用掛や攘夷督促の勅使をつとめたが、文久3年の八月十八日の政変で官位を奪われ京都を追放された(七卿落ち)。",
+    "later_known_for": "王政復古後は議定・右大臣などを歴任し、明治4年に太政大臣に就任。太政官制廃止まで在任し、後に内大臣として明治22年に一時内閣総理大臣を兼任した。",
+    "source_ids": [
+      "t_jacar_sanjo",
+      "t_ndl_portrait_97"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "matsudaira_shungaku",
+    "canonical_name": "松平春嶽",
+    "reading": null,
+    "birth_date": "1828-10-10",
+    "death_date": "1890-06-02",
+    "birth_place_id": "edo",
+    "aliases": [],
+    "summary": "福井藩主。橋本左内らを登用して藩政改革を進め、将軍継嗣問題では一橋派として活動したが、安政の大獄で隠居謹慎処分を受けた。",
+    "later_known_for": "文久2年に政事総裁職に就任して幕政改革にあたった。新政府では議定・内国事務総督・民部卿・大蔵卿などを歴任した。",
+    "source_ids": [
+      "t_ndl_portrait_195",
+      "t_fukui_nenpyo",
+      "t_fukui_hashimoto",
+      "t_fukui_hashimoto_inkyo",
+      "t_fukui_nenpyo_naikoku"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "tokugawa_nariaki",
+    "canonical_name": "徳川斉昭",
+    "reading": null,
+    "birth_date": "1800",
+    "death_date": "1860",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "水戸藩9代藩主。ペリー来航の年に幕府の海防参与に任命され、将軍継嗣問題では一橋派として一橋慶喜を推した。",
+    "later_known_for": "安政5年の日米修好通商条約調印や将軍継嗣問題での活動を理由に、大老井伊直弼のもとで隠居・謹慎処分を受けた。",
+    "source_ids": [
+      "t_mito_nariaki_main",
+      "t_mito_hanshu",
+      "t_mito_kaibousannyo",
+      "t_mito_tsushojoyaku",
+      "t_mito_nitibei",
+      "t_mito_koukyo"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "tokugawa_iemochi",
+    "canonical_name": "徳川家茂",
+    "reading": null,
+    "birth_date": "1846",
+    "death_date": "1866",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "江戸幕府第14代将軍。紀州藩(紀伊徳川家)藩主・徳川慶福として将軍継嗣問題の当事者となり、井伊直弼らに推されて将軍後継となった。",
+    "later_known_for": "公武合体策として孝明天皇の妹・和宮と結婚(1862年)したこと、第二次長州征討のため出陣中の大坂で21歳で病没(1866年)したこと。",
+    "source_ids": [
+      "u_ndl_auth_iemochi",
+      "u_fukui_museum_iemochi"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "abe_masahiro",
+    "canonical_name": "阿部正弘",
+    "reading": null,
+    "birth_date": "1819",
+    "death_date": "1857",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "備後福山藩主。1843年25歳で老中となり、2年後には老中首座に就任。ペリー来航(1853年)の翌1854年に日米和親条約を結び、開国への道を決定した。",
+    "later_known_for": "先例に縛られない人材登用や海防強化などの「安政の改革」を主導したこと。江川英龍・中浜万次郎・勝海舟らを登用した。",
+    "source_ids": [
+      "u_ndl_auth_abe_masahiro",
+      "u_hiroshima_edu_abe_masahiro",
+      "u_hiroshima_edu_abe_jinji",
+      "u_hiroshima_edu_abe_anseikaikaku"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "oguri_tadamasa",
+    "canonical_name": "小栗忠順",
+    "reading": null,
+    "birth_date": "1827",
+    "death_date": "1868",
+    "birth_place_id": "edo",
+    "aliases": [],
+    "summary": "幕臣(旗本)。1860年、日本初の遣米使節に目付として参加し、ポウハタン号で渡米。帰国後は外国奉行・勘定奉行・江戸町奉行・歩兵奉行などの要職を歴任し、横須賀製鉄所(造船所)の建設を提言するなど幕府の近代化に貢献した。",
+    "later_known_for": "明治維新後の1868年1月に全ての役職を罷免され、上野国群馬郡権田村(現・群馬県高崎市倉渕町)に隠棲するが、新政府軍に捕縛され、取り調べのないまま烏川河原で斬首された。",
+    "source_ids": [
+      "u_ndl_auth_oguri",
+      "u_takasaki_oguri_profile",
+      "u_takasaki_oguri_nenpyo",
+      "u_takasaki_oguri_nenpyo_1868",
+      "u_takasaki_oguri_shuenchi",
+      "u_takasaki_oguri_yokosuka"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "kondo_isami",
+    "canonical_name": "近藤勇",
+    "reading": null,
+    "birth_date": "1834-11-09",
+    "death_date": "1868-05-17",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "新選組局長。江戸の天然理心流道場「試衛館」を継ぎ、文久3年(1863年)将軍徳川家茂の上洛警護のため組織された浪士隊に参加。京都に残留した一部が京都守護職松平容保のもとで新選組となり、京都の治安維持を担った。",
+    "later_known_for": "鳥羽・伏見の戦いの後、甲陽鎮撫隊を組織して官軍と戦うが敗れ、下総流山で捕らえられ斬首された。",
+    "source_ids": [
+      "u_ndl_portrait_kondo",
+      "u_kodomo_kondo",
+      "u_ndl_portrait_kondo_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "hijikata_toshizo",
+    "canonical_name": "土方歳三",
+    "reading": null,
+    "birth_date": "1835",
+    "death_date": "1869-06-20",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "新選組副長。近藤勇と同じ道場の門弟で、文久3年(1863年)浪士組に参加して上洛。新選組副長として活躍した。",
+    "later_known_for": "鳥羽・伏見の戦いの後、宇都宮・会津などを転戦し、最後は箱館(函館)戦争で榎本武揚らと共に戦い、弁天岬台場救援に向かう途中で銃弾を受けて戦死した。",
+    "source_ids": [
+      "u_ndl_portrait_hijikata",
+      "u_kodomo_hijikata",
+      "u_hakodate_hakodatesenso",
+      "u_ndl_portrait_hijikata_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "enomoto_takeaki",
+    "canonical_name": "榎本武揚",
+    "reading": null,
+    "birth_date": "1836-10-05",
+    "death_date": "1908-10-26",
+    "birth_place_id": "edo",
+    "aliases": [],
+    "summary": "幕臣。長崎海軍伝習所で学び、文久2年(1862年)オランダに留学。帰国後、幕府海軍副総裁となる。戊辰戦争では官軍への軍艦引き渡しを拒否し、艦隊を率いて箱館(函館)へ向かい、五稜郭に拠って抵抗するが降伏した。",
+    "later_known_for": "明治政府に登用され、開拓使を経て駐露公使として樺太・千島交換条約を締結。逓信相・農商務相・文相・外相など明治政府の要職を歴任した。",
+    "source_ids": [
+      "u_ndl_portrait_enomoto",
+      "u_kodomo_enomoto",
+      "u_hakodate_hakodatesenso",
+      "u_ndl_portrait_enomoto_seibotsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "matthew_perry",
+    "canonical_name": "マシュー・ペリー",
+    "reading": null,
+    "birth_date": "1794",
+    "death_date": "1858",
+    "birth_place_id": null,
+    "aliases": [],
+    "summary": "アメリカ海軍代将(コモドア)・東インド艦隊司令長官。1853年7月に黒船艦隊を率いて浦賀沖へ来航し、日本に開国を迫った。翌1854年3月31日に日米和親条約(神奈川条約)の締結にこぎつけた。",
+    "later_known_for": "日米和親条約の締結により、下田・箱館の開港と漂流民保護等を取り決め、200年以上続いた日本の鎖国体制に転機をもたらしたこと。",
+    "source_ids": [
+      "u_ndl_auth_perry",
+      "u_state_gov_opening_japan",
+      "u_state_gov_opening_japan_treaty",
+      "u_archives_gov_kanagawa_treaty",
+      "u_archives_gov_kanagawa_treaty_signing",
+      "u_yokosuka_kurofune"
+    ],
+    "review_status": "confirmed"
+  }
+]

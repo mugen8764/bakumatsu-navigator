@@ -1,0 +1,119 @@
+[
+  {
+    "id": "relation_ii_yoshinobu_1858",
+    "person_a_id": "ii_naosuke",
+    "person_b_id": "tokugawa_yoshinobu",
+    "relation_type": "conflict",
+    "start_date": "1858-01-01",
+    "end_date": "1860-03-24",
+    "label": "将軍継嗣問題での対立",
+    "description": "第13代将軍家定の継嗣をめぐり、和歌山藩主徳川慶福(のちの家茂)を推す井伊直弼と、一橋家の徳川慶喜が対立した。",
+    "event_ids": [
+      "sakuradamongai_incident"
+    ],
+    "mediator_person_ids": [],
+    "source_ids": [
+      "m_ndl_yoshinobu_conflict",
+      "m_chiyoda_sakuradamongai"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "relation_katsu_saigo_1868",
+    "person_a_id": "katsu_kaishu",
+    "person_b_id": "saigo_takamori",
+    "relation_type": "temporary_cooperation",
+    "start_date": "1868-03-13",
+    "end_date": "1868-03-14",
+    "label": "江戸城無血開城に向けた会談",
+    "description": "新政府軍による江戸城総攻撃を前に、勝海舟が西郷隆盛を説得し、江戸城の無血開城で合意した。",
+    "event_ids": [],
+    "mediator_person_ids": [],
+    "source_ids": [
+      "a_ndl_portrait_51",
+      "m_tokyolib_edojoumuketsukaijou"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "relation_katsu_ryoma_1862",
+    "person_a_id": "katsu_kaishu",
+    "person_b_id": "sakamoto_ryoma",
+    "relation_type": "mentorship",
+    "start_date": "1862-01-01",
+    "end_date": null,
+    "label": "神戸海軍操練所における師弟関係",
+    "description": "文久2年(1862)、脱藩した坂本龍馬が勝海舟の門下生となり、神戸海軍操練所の建設に尽力した。",
+    "event_ids": [],
+    "mediator_person_ids": [],
+    "source_ids": [
+      "c_ndl_portrait_ryoma"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "relation_saigo_kido_1866",
+    "person_a_id": "saigo_takamori",
+    "person_b_id": "kido_takayoshi",
+    "relation_type": "alliance",
+    "start_date": "1866-03-07",
+    "end_date": null,
+    "label": "薩長同盟",
+    "description": "坂本龍馬(・中岡慎太郎)の仲介により、薩摩藩の西郷隆盛と長州藩の木戸孝允との間で討幕に向けた同盟が結ばれた。",
+    "event_ids": [
+      "satcho_alliance"
+    ],
+    "mediator_person_ids": [
+      "sakamoto_ryoma"
+    ],
+    "source_ids": [
+      "m_kodomo_satcho",
+      "b_ndl_portrait_saigo",
+      "c_ndl_portrait_ryoma",
+      "m_kagoshima_sattyo",
+      "i_ndl_chrono_satcho_date"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "relation_okubo_iwakura_1867",
+    "person_a_id": "okubo_toshimichi",
+    "person_b_id": "iwakura_tomomi",
+    "relation_type": "political_cooperation",
+    "start_date": "1868-01-03",
+    "end_date": null,
+    "label": "王政復古のクーデターでの協力",
+    "description": "大久保利通は岩倉具視らと結んで慶応3年12月9日(西暦1868年1月3日)、王政復古の大号令を主導した。",
+    "event_ids": [
+      "ousei_fukko_no_daigorei"
+    ],
+    "mediator_person_ids": [],
+    "source_ids": [
+      "b_ndl_portrait_okubo",
+      "m_kodomo_ouseifukko",
+      "i_ndl_chrono_ousei_year",
+      "i_ndl_chrono_ousei_date"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "relation_saigo_okubo_1867",
+    "person_a_id": "saigo_takamori",
+    "person_b_id": "okubo_toshimichi",
+    "relation_type": "political_cooperation",
+    "start_date": "1868-01-03",
+    "end_date": null,
+    "label": "王政復古の大号令での協力",
+    "description": "薩摩藩の西郷隆盛と大久保利通は、慶応3年12月9日(西暦1868年1月3日)の王政復古の大号令にともに加わった。",
+    "event_ids": [
+      "ousei_fukko_no_daigorei"
+    ],
+    "mediator_person_ids": [],
+    "source_ids": [
+      "m_kodomo_ouseifukko",
+      "i_ndl_chrono_ousei_year",
+      "i_ndl_chrono_ousei_date"
+    ],
+    "review_status": "probable"
+  }
+]

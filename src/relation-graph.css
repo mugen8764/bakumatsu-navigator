@@ -1,0 +1,224 @@
+/* relation-graph.css — 相関図モジュール専用スタイル。
+   色トークン(--rg-node-bg / --rg-node-fg / --rg-line / --rg-line-selected / --rg-focus)は
+   styles.css の :root で定義される。ここでは var(--rg-*, フォールバック値) で参照するのみで、
+   :root に自分で定義しない。
+   色だけで関係の種類・状態を区別しない: 線種(実線/破線)・ラベル文字・選択状態のaria属性を併用する。 */
+
+.relation-graph {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 100%;
+}
+
+.relation-graph-empty {
+  margin: 0;
+}
+
+.relation-graph-svg {
+  display: block;
+  width: 100%;
+  max-width: 440px;
+  height: auto;
+}
+
+/* ---- ノード ---- */
+
+.relation-graph-node {
+  cursor: pointer;
+}
+
+.relation-graph-node-circle {
+  fill: var(--rg-node-bg, #f4efe4);
+  stroke: var(--rg-node-fg, #2b2620);
+  stroke-width: 1.5;
+}
+
+.relation-graph-node-center .relation-graph-node-circle {
+  stroke-width: 3;
+}
+
+.relation-graph-node-label {
+  fill: var(--rg-node-fg, #2b2620);
+  font-size: 13px;
+  pointer-events: none;
+}
+
+.relation-graph-node:focus {
+  outline: 3px solid var(--rg-focus, #1a73e8);
+  outline-offset: 2px;
+}
+.relation-graph-node:focus:not(:focus-visible) {
+  outline: none;
+}
+.relation-graph-node:focus-visible {
+  outline: 3px solid var(--rg-focus, #1a73e8);
+  outline-offset: 2px;
+}
+
+/* ---- 関係線(edge) ---- */
+
+.relation-graph-edge {
+  cursor: pointer;
+}
+
+.relation-graph-edge-line {
+  stroke: var(--rg-line, #767676);
+  stroke-width: 2;
+}
+
+/* 対立性の高い関係(対立・監視・処分)は破線にする。色だけに頼らない区別。 */
+.relation-graph-edge-line-tense {
+  stroke-dasharray: 6 4;
+}
+
+.relation-graph-edge-selected .relation-graph-edge-line {
+  stroke: var(--rg-line-selected, #1a5fb4);
+  stroke-width: 4;
+}
+
+.relation-graph-edge-label-bg {
+  fill: var(--rg-node-bg, #f4efe4);
+  fill-opacity: 0.92;
+  stroke: var(--rg-line, #767676);
+  stroke-width: 0.5;
+}
+
+.relation-graph-edge-selected .relation-graph-edge-label-bg {
+  stroke: var(--rg-line-selected, #1a5fb4);
+  stroke-width: 1;
+}
+
+.relation-graph-edge-label {
+  fill: var(--rg-node-fg, #2b2620);
+  font-size: 11px;
+  pointer-events: none;
+}
+
+.relation-graph-edge:focus {
+  outline: 3px solid var(--rg-focus, #1a73e8);
+  outline-offset: 2px;
+}
+.relation-graph-edge:focus:not(:focus-visible) {
+  outline: none;
+}
+.relation-graph-edge:focus-visible {
+  outline: 3px solid var(--rg-focus, #1a73e8);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .relation-graph-edge-line,
+  .relation-graph-edge-label-bg {
+    transition: stroke 0.15s ease, stroke-width 0.15s ease;
+  }
+}
+
+/* ---- テキスト代替の表(仕様§7.2) ---- */
+
+.relation-graph-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  font-size: 0.9rem;
+}
+
+.relation-graph-table thead,
+.relation-graph-table tbody,
+.relation-graph-table tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.relation-graph-table th,
+.relation-graph-table td {
+  border: 1px solid var(--rg-line, #767676);
+  padding: 0.35rem 0.5rem;
+  text-align: left;
+  word-break: break-word;
+}
+
+.relation-graph-table-row-selected {
+  background: color-mix(in srgb, var(--rg-line-selected, #1a5fb4) 12%, transparent);
+}
+
+.rg-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---- 選択中の関係の詳細 ---- */
+
+.relation-graph-detail {
+  border: 1px solid var(--rg-line, #767676);
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+}
+
+.relation-graph-detail-heading {
+  font-weight: bold;
+  margin: 0 0 0.5rem;
+}
+
+.relation-graph-detail dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.25rem 0.75rem;
+  margin: 0;
+}
+
+.relation-graph-detail dt {
+  font-weight: bold;
+}
+
+.relation-graph-detail dd {
+  margin: 0;
+}
+
+.relation-graph-detail-sources-heading {
+  font-weight: bold;
+  margin: 0.75rem 0 0.25rem;
+}
+
+.relation-graph-detail-sources {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+/* 出典IDを押すと書誌情報(sources.js)へ到達する。リンクではなくアプリ内の表示切替なので button を使う。 */
+.relation-graph-detail-source-button {
+  font-family: inherit;
+  font-size: 0.9em;
+  padding: 0.1rem 0.3rem;
+  background: none;
+  border: none;
+  border-bottom: 1px dashed currentColor;
+  color: inherit;
+  cursor: pointer;
+}
+
+.relation-graph-detail-source-button:hover {
+  border-bottom-style: solid;
+}
+
+.relation-graph-detail-source-button:focus,
+.relation-graph-detail-source-button:focus-visible {
+  outline: 2px solid var(--rg-focus, #1a5fb4);
+  outline-offset: 2px;
+}
+
+@media (max-width: 360px) {
+  .relation-graph-detail dl {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,324 @@
+[
+  {
+    "faction_id": "bakufu",
+    "start_date": "1858",
+    "end_date": "1860-03-24",
+    "leaders": [
+      "ii_naosuke"
+    ],
+    "goals": [
+      "将軍継嗣問題で徳川慶福(のちの家茂)を推すこと(一橋派の徳川慶喜と対立)",
+      "日米修好通商条約をめぐる対米調印問題の打開"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "大老井伊直弼が、日米修好通商条約をめぐる対米調印問題と将軍徳川家定の後継者問題(徳川慶福擁立、一橋派の徳川慶喜と対立)の打開のため安政5年4月(西暦では1858年)に大老に就任し幕政を主導した時期。安政7年3月3日(西暦3月24日)、桜田門外で井伊が襲撃され落命した。",
+    "source_ids": [
+      "a_hikone_history",
+      "m_chiyoda_sakuradamongai",
+      "m_ndl_yoshinobu_conflict"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "bakufu",
+    "start_date": "1867",
+    "end_date": "1867-11-09",
+    "leaders": [
+      "tokugawa_yoshinobu"
+    ],
+    "goals": [
+      "大政奉還により徳川家の復権を図ること",
+      "倒幕の勢いを抑えること(達成できず大政奉還に至った)"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "慶応2年12月5日(西暦では1867年)に征夷大将軍宣下を受けた徳川慶喜が、倒幕の勢いを抑えられないまま、高知藩(土佐藩)の建白を受けて慶応3年10月14日(西暦11月9日)に京都の二条城で大政奉還を表明した時期。徳川家の復権を図ったが、倒幕派に敗れて恭順・謹慎に至った。これにより1603年から続いた江戸幕府は幕を閉じた。",
+    "source_ids": [
+      "a_ibaraki_15dai",
+      "m_kodomo_taiseihoukan",
+      "a_ndl_portrait_147",
+      "t_ndl_auth_komei",
+      "i_ndl_chrono_taisei_date"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "satsuma",
+    "start_date": "1866-03-07",
+    "end_date": "1866-03-07",
+    "leaders": [
+      "komatsu_tatewaki"
+    ],
+    "goals": [
+      "長州藩との同盟締結による討幕への連携強化"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "慶応2年1月21日(西暦1866年3月7日)、坂本龍馬・中岡慎太郎の仲介により、京都で薩摩藩(西郷隆盛ら)と長州藩(木戸孝允)の間に薩長同盟が結ばれ、討幕に向けた連携を強めていく段階に入った時期。",
+    "source_ids": [
+      "m_kodomo_satcho",
+      "m_kagoshima_sattyo",
+      "i_ndl_chrono_satcho_date",
+      "s_ndl_portrait_komatsu"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "satsuma",
+    "start_date": "1868-01-03",
+    "end_date": "1868-01-03",
+    "leaders": [
+      "komatsu_tatewaki"
+    ],
+    "goals": [
+      "王政復古の大号令発出による天皇親政体制の実現"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [
+      "bakufu"
+    ],
+    "position_summary": "慶応3年12月9日(西暦1868年1月3日)、薩摩藩(西郷隆盛・大久保利通ら)は長州藩(木戸孝允ら)・公家の岩倉具視らとともに王政復古の大号令を発し、天皇による政治への復帰を実現した時期。",
+    "source_ids": [
+      "m_kodomo_ouseifukko",
+      "b_ndl_portrait_okubo",
+      "i_ndl_chrono_ousei_year",
+      "i_ndl_chrono_ousei_date",
+      "s_ndl_portrait_komatsu"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "court",
+    "start_date": null,
+    "end_date": "1867",
+    "leaders": [
+      "komei_tenno"
+    ],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "孝明天皇が朝廷を統べていたが、慶応2年12月25日に崩御した。国立公文書館の解説は「慶応2年（1866）12月、孝明天皇が崩御され、翌年正月、明治天皇が践祚」と記す。この12月は旧暦で、西暦では1867年にあたる。",
+    "source_ids": [
+      "g_archives_sokui",
+      "t_ndl_auth_komei"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "court",
+    "start_date": "1854",
+    "end_date": "1867",
+    "leaders": [],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "公家の岩倉具視は公武合体派として和宮降嫁を推進したが、「四奸」の一人として尊王攘夷派から非難され、慶応3年(1867)まで京都で幽居した。",
+    "source_ids": [
+      "g_ndl_iwakura_court"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "choshu",
+    "start_date": "1837",
+    "end_date": null,
+    "leaders": [],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "毛利敬親が天保8年(1837)に13代萩藩主として家督を継いだ。",
+    "source_ids": [
+      "g_yamaguchi_takachika_1"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "choshu",
+    "start_date": "1864",
+    "end_date": null,
+    "leaders": [],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "元治元年(1864)の禁門の変により長州藩は朝敵とされ、藩主は萩で謹慎した。",
+    "source_ids": [
+      "g_yamaguchi_takachika_2"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "tosa",
+    "start_date": "1853",
+    "end_date": null,
+    "leaders": [
+      "yamauchi_yodo"
+    ],
+    "goals": [
+      "公武合体論の推進"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "藩主山内豊信(容堂)が幕府の中枢に迎えられ、公武合体論を推し進めて大政奉還などの局面で重要な働きをした。",
+    "source_ids": [
+      "g_kochi_tosa_1",
+      "t_ndl_portrait_206"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "tosa",
+    "start_date": "1862",
+    "end_date": "1863",
+    "leaders": [
+      "yamauchi_yodo"
+    ],
+    "goals": [
+      "公武合体論の推進(継続)"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "吉田東洋の暗殺後、土佐勤王党の盟主であった武市半平太(瑞山)を中心に、尊王攘夷の動きが強まった時期。ただし藩の方針を決めていたのは前藩主の山内容堂で、容堂の公武合体論は変わらなかった。",
+    "source_ids": [
+      "g_kochi_tosa_1",
+      "g_kochi_tosa_2",
+      "t_kochi_takechi_shiseki"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "aizu",
+    "start_date": null,
+    "end_date": null,
+    "leaders": [
+      "matsudaira_katamori"
+    ],
+    "goals": [
+      "京都の治安維持(京都守護職)"
+    ],
+    "allied_faction_ids": [
+      "shinsengumi"
+    ],
+    "opposed_faction_ids": [],
+    "position_summary": "文久2年12月24日、藩主松平容保が藩士千人を率いて入京した(この日付は出典が「1862（文久2）年12月24日」と和暦に西暦年を並記したもの。旧暦12月は西暦では年をまたぐことがあり、ここでは西暦年を確定していない)。京都守護職として、会津藩御預という位置づけで新選組を置いた。",
+    "source_ids": [
+      "g_aizu_shinsengumi_aizu",
+      "g_aizu_shugoshoku",
+      "g_aizu_shinsengumi_shinsen"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "faction_id": "mito",
+    "start_date": null,
+    "end_date": "1844",
+    "leaders": [
+      "tokugawa_nariaki"
+    ],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "8代藩主斉脩の死去に伴う継嗣問題の決着により、徳川斉昭の水戸藩主就任が実現した。",
+    "source_ids": [
+      "g_ibaraki_hanshu",
+      "g_ibaraki_zasetsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "mito",
+    "start_date": "1844",
+    "end_date": null,
+    "leaders": [],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "弘化元年(1844)4月18日、幕府の命により斉昭は江戸召還ののち隠居・謹慎の処分を受け、藩政は長子慶篤へ受け継がれ、支藩の高松・守山・府中各藩主が後見することになった。",
+    "source_ids": [
+      "g_ibaraki_zasetsu"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "echizen_fukui",
+    "start_date": "1857",
+    "end_date": null,
+    "leaders": [
+      "matsudaira_shungaku"
+    ],
+    "goals": [
+      "藩政改革(橋本左内の登用)"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "安政4年8月(西暦では1857年)、藩主松平春嶽の命を受けて橋本左内が侍読兼御内用掛として春嶽に近侍することになった。",
+    "source_ids": [
+      "g_fukui_taigoku_1",
+      "t_ndl_portrait_195"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "echizen_fukui",
+    "start_date": "1858",
+    "end_date": null,
+    "leaders": [
+      "matsudaira_shungaku"
+    ],
+    "goals": [],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [],
+    "position_summary": "将軍継嗣問題をめぐる安政の大獄で、大老井伊直弼により松平春嶽をはじめとする一橋派の諸侯が厳罰に処された。",
+    "source_ids": [
+      "g_fukui_taigoku_2",
+      "g_fukui_taigoku_3"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "shinsengumi",
+    "start_date": "1863",
+    "end_date": null,
+    "leaders": [
+      "kondo_isami",
+      "hijikata_toshizo"
+    ],
+    "goals": [
+      "京都の治安維持",
+      "尊王攘夷派志士の取締り"
+    ],
+    "allied_faction_ids": [
+      "aizu"
+    ],
+    "opposed_faction_ids": [],
+    "position_summary": "会津藩御預として京都で誕生し、局長近藤勇・副長土方歳三のもとで組織された。",
+    "source_ids": [
+      "g_aizu_shinsengumi_shinsen",
+      "g_aizu_shinsengumi_meimei",
+      "g_kodomo_kondo",
+      "g_kodomo_hijikata"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "faction_id": "new_government",
+    "start_date": "1868-01-03",
+    "end_date": null,
+    "leaders": [],
+    "goals": [
+      "王政復古"
+    ],
+    "allied_faction_ids": [],
+    "opposed_faction_ids": [
+      "bakufu"
+    ],
+    "position_summary": "慶応3年12月9日(西暦1868年1月3日)の王政復古の大号令により、幕府だけでなく摂政・関白などの従来の朝廷の制度も廃止され、新たに総裁・議定・参与の三職が置かれた。岩倉具視は新政府において参与・議定・大納言・右大臣などをつとめた。",
+    "source_ids": [
+      "g_archives_ouseifukko",
+      "g_ndl_iwakura_newgov",
+      "i_ndl_chrono_ousei_year",
+      "i_ndl_chrono_ousei_date"
+    ],
+    "review_status": "needs_review"
+  }
+]

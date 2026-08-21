@@ -1,0 +1,94 @@
+[
+  {
+    "id": "edo",
+    "name": "江戸",
+    "latitude": 35.67842212,
+    "longitude": 139.7542116375,
+    "place_type": "city",
+    "precision": "approximate",
+    "summary": "江戸幕府の所在地。安政7年(1860)、江戸城外の桜田門で大老井伊直弼が暗殺された(桜田門外の変)。",
+    "source_ids": [
+      "m_chiyoda_sakuradamongai",
+      "p_gsi_sakuradamon"
+    ]
+  },
+  {
+    "id": "kyoto",
+    "name": "京都",
+    "latitude": 35.0138631111111,
+    "longitude": 135.7476685,
+    "place_type": "city",
+    "precision": "approximate",
+    "summary": "朝廷の所在地。慶応2年(1866)の薩長同盟締結、慶応3年(1867)の大政奉還・王政復古の大号令など、幕末政局の舞台となった。",
+    "source_ids": [
+      "m_kagoshima_sattyo",
+      "m_kodomo_taiseihoukan",
+      "p_gsi_nijojo"
+    ]
+  },
+  {
+    "id": "hikone",
+    "name": "彦根",
+    "latitude": 35.27594132,
+    "longitude": 136.250562624167,
+    "place_type": "city",
+    "precision": "approximate",
+    "summary": "彦根藩の城下町。藩主井伊直弼は嘉永3年(1850)に藩主となり、安政5年(1858)に大老に就任した。",
+    "source_ids": [
+      "a_hikone_history",
+      "p_gsi_hikone"
+    ]
+  },
+  {
+    "id": "kagoshima",
+    "name": "鹿児島",
+    "latitude": 31.59686099,
+    "longitude": 130.55702451,
+    "place_type": "city",
+    "precision": "approximate",
+    "summary": "薩摩藩(鹿児島藩)の城下町。藩主島津斉彬に取り立てられた西郷隆盛の出身地。",
+    "source_ids": [
+      "b_ndl_portrait_saigo",
+      "p_gsi_kagoshima_cityhall"
+    ]
+  },
+  {
+    "id": "hagi",
+    "name": "萩",
+    "latitude": 34.4178521111111,
+    "longitude": 131.383367527778,
+    "place_type": "city",
+    "precision": "approximate",
+    "summary": "長州藩(萩藩)の城下町。文久3年(1863)、外国船攻撃の際に高杉晋作が登用され奇兵隊を結成した。",
+    "source_ids": [
+      "c_ndl_portrait_takasugi",
+      "p_gsi_hagi_castle"
+    ]
+  },
+  {
+    "id": "uraga",
+    "name": "浦賀",
+    "latitude": 35.254074,
+    "longitude": 139.710281,
+    "place_type": "town",
+    "precision": "approximate",
+    "summary": "嘉永6年(1853)、ペリー率いる黒船艦隊(蒸気船サスケハナ号・ミッシシッピー号、帆船プリマス号・サラトガ号)が来航した地。ペリーは浦賀(現在の久里浜)に上陸した。",
+    "source_ids": [
+      "h_gsi_uraga",
+      "h_yokosuka_kurofune"
+    ]
+  },
+  {
+    "id": "goryokaku",
+    "name": "五稜郭",
+    "latitude": 41.797539945,
+    "longitude": 140.756941807778,
+    "place_type": "landmark",
+    "precision": "approximate",
+    "summary": "明治2年(1869)5月18日、榎本武揚以下の脱走軍が新政府軍に降伏し、7か月に及んだ戦争が終結して新政府に明け渡された城郭。箱館戦争終結の地。",
+    "source_ids": [
+      "h_gsi_goryokaku",
+      "h_hakodate_city_goryokaku"
+    ]
+  }
+]

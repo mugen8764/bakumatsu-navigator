@@ -1,0 +1,496 @@
+[
+  {
+    "id": "sakuradamongai_incident",
+    "name": "桜田門外の変",
+    "start_date": "1860-03-24",
+    "end_date": "1860-03-24",
+    "era_label": "安政7年3月3日",
+    "place_ids": [
+      "edo"
+    ],
+    "background": "",
+    "direct_causes": [],
+    "description": "大老井伊直弼が江戸城外桜田門前で水戸浪士ら(および薩摩浪士1名)に襲撃され死去した事件。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "ii_naosuke"
+    ],
+    "faction_ids": [
+      "bakufu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "ansei_no_taigoku"
+    ],
+    "next_event_ids": [],
+    "source_ids": [
+      "m_chiyoda_sakuradamongai",
+      "a_hikone_history",
+      "e_hikone_sakuradamongai_shugekisha"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "satcho_alliance",
+    "name": "薩長同盟",
+    "start_date": "1866-03-07",
+    "end_date": "1866-03-07",
+    "era_label": "慶応2年1月21日",
+    "place_ids": [
+      "kyoto"
+    ],
+    "background": "",
+    "direct_causes": [],
+    "description": "坂本龍馬・中岡慎太郎の仲介により、京都の小松帯刀邸で薩摩藩の西郷隆盛と長州藩の木戸孝允との間に結ばれた討幕に向けた同盟。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "saigo_takamori",
+      "kido_takayoshi",
+      "sakamoto_ryoma"
+    ],
+    "faction_ids": [
+      "satsuma"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [],
+    "next_event_ids": [
+      "dainiji_choshu_seitou"
+    ],
+    "source_ids": [
+      "m_kodomo_satcho",
+      "m_kagoshima_sattyo",
+      "c_yamaguchi_lib_kido",
+      "i_ndl_chrono_satcho_date"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "taisei_hokan",
+    "name": "大政奉還",
+    "start_date": "1867-11-09",
+    "end_date": "1867-11-09",
+    "era_label": "慶応3年10月14日",
+    "place_ids": [
+      "kyoto"
+    ],
+    "background": "",
+    "direct_causes": [],
+    "description": "15代将軍徳川慶喜が京都の二条城で、政権を朝廷に返上する大政奉還を表明した。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "tokugawa_yoshinobu"
+    ],
+    "faction_ids": [
+      "bakufu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [],
+    "next_event_ids": [
+      "ousei_fukko_no_daigorei"
+    ],
+    "source_ids": [
+      "m_kodomo_taiseihoukan",
+      "a_ibaraki_15dai",
+      "a_ibaraki_15dai_midashi",
+      "i_ndl_chrono_taisei_date"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "ousei_fukko_no_daigorei",
+    "name": "王政復古の大号令",
+    "start_date": "1868-01-03",
+    "end_date": "1868-01-03",
+    "era_label": "慶応3年12月9日",
+    "place_ids": [
+      "kyoto"
+    ],
+    "background": "",
+    "direct_causes": [],
+    "description": "薩摩藩(西郷隆盛・大久保利通ら)と長州藩(木戸孝允ら)、公家の岩倉具視らにより、天皇による政治に戻す王政復古の大号令が出された。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "saigo_takamori",
+      "okubo_toshimichi",
+      "kido_takayoshi",
+      "iwakura_tomomi"
+    ],
+    "faction_ids": [
+      "satsuma"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "taisei_hokan"
+    ],
+    "next_event_ids": [
+      "toba_fushimi_no_tatakai"
+    ],
+    "source_ids": [
+      "m_kodomo_ouseifukko",
+      "i_ndl_chrono_ousei_year",
+      "i_ndl_chrono_ousei_date"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "nichibei_shukou_tsusho_jouyaku",
+    "name": "日米修好通商条約",
+    "start_date": "1858-07-29",
+    "end_date": "1858-07-29",
+    "era_label": "安政5年6月19日",
+    "place_ids": [],
+    "background": "",
+    "direct_causes": [],
+    "description": "大老井伊直弼が、孝明天皇の勅許を得ないまま、江戸湾小柴沖に停泊したアメリカ軍艦ポーハタン号上でアメリカ総領事ハリスとの間に日米修好通商条約(全14条・付属貿易章程)を締結した。神奈川・長崎・新潟・兵庫の開港と江戸・大坂の開市などを定めた不平等条約。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "ii_naosuke"
+    ],
+    "faction_ids": [
+      "bakufu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [],
+    "next_event_ids": [
+      "ansei_no_taigoku"
+    ],
+    "source_ids": [
+      "e_naikaku_bakumatsu20_jouyaku",
+      "e_hikone_naosuke_ansei_keii"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "ansei_no_taigoku",
+    "name": "安政の大獄",
+    "start_date": "1858",
+    "end_date": null,
+    "era_label": "安政5年",
+    "place_ids": [],
+    "background": "",
+    "direct_causes": [],
+    "description": "日米修好通商条約の無勅許調印をめぐる政争の中、孝明天皇から幕府批判を含む「戊午の密勅」が水戸藩へ下された。幕府はこれに関わった人々を捕らえて取り調べを進め、武力による政権打倒計画が発覚したことから、関係者を厳しく処罰した。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "ii_naosuke"
+    ],
+    "faction_ids": [
+      "bakufu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "nichibei_shukou_tsusho_jouyaku"
+    ],
+    "next_event_ids": [
+      "sakuradamongai_incident"
+    ],
+    "source_ids": [
+      "e_hikone_naosuke_ansei_keii",
+      "e_hikone_taigoku_sakuradamongai_kekka"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "dainiji_choshu_seitou",
+    "name": "第二次長州征討",
+    "start_date": "1866",
+    "end_date": null,
+    "era_label": "慶応2年6月",
+    "place_ids": [],
+    "background": "",
+    "direct_causes": [],
+    "description": "幕府による2度目の長州藩討伐。薩長同盟により薩摩藩は参加せず、長州藩では高杉晋作が組織した奇兵隊などが各地で幕府軍と戦った。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "takasugi_shinsaku"
+    ],
+    "faction_ids": [
+      "bakufu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "satcho_alliance"
+    ],
+    "next_event_ids": [],
+    "source_ids": [
+      "c_ndl_portrait_takasugi",
+      "e_kodomo_theme04_dainiji"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "perry_raiko",
+    "name": "ペリー来航",
+    "start_date": "1853-07-08",
+    "end_date": null,
+    "era_label": "嘉永6年6月3日",
+    "place_ids": [
+      "uraga"
+    ],
+    "background": "ペリーはアメリカ大統領の親書を携え、日本に開国を迫った。",
+    "direct_causes": [],
+    "description": "嘉永6年(1853)6月3日(西暦7月8日)、米国東インド艦隊司令長官ペリーが率いる蒸気船サスケハナ号・ミッシシッピー号、帆船プリマス号・サラトガ号の黒船艦隊4隻が大西洋・インド洋航路で浦賀沖に到着した。ペリーは浦賀(現在の久里浜)に上陸した(上陸の月日は出典に記載がない)。",
+    "immediate_results": [
+      "大砲(空砲)による威嚇を伴う交渉の末、翌年(嘉永7年/1854年)に日米和親条約が締結された。"
+    ],
+    "long_term_effects": [],
+    "person_ids": [
+      "matthew_perry"
+    ],
+    "faction_ids": [],
+    "issue_ids": [],
+    "previous_event_ids": [],
+    "next_event_ids": [
+      "nichibei_washin_jouyaku"
+    ],
+    "source_ids": [
+      "h_ndl_chrono_perry",
+      "h_ndl_chrono_perry_date",
+      "h_yokosuka_kurofune"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "nichibei_washin_jouyaku",
+    "name": "日米和親条約",
+    "start_date": "1854-03-31",
+    "end_date": "1854-03-31",
+    "era_label": "嘉永7年3月3日",
+    "place_ids": [],
+    "background": "嘉永7年(1854)1月、国書への回答を求めて再びペリーの艦隊が来航すると、彦根・会津・岡山・熊本ほか各藩が江戸湾の海岸警備に出動し、江戸の町にも衝撃が走った。",
+    "direct_causes": [],
+    "description": "嘉永7年(1854)3月3日(西暦3月31日)、日米和親条約が調印された。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "matthew_perry"
+    ],
+    "faction_ids": [],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "perry_raiko"
+    ],
+    "next_event_ids": [],
+    "source_ids": [
+      "h_ndl_chrono_kanagawa",
+      "h_ndl_chrono_kanagawa_date",
+      "h_ndl_chrono_kanagawa_year",
+      "h_naa_exh19_bunpodo"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "hachigatsu_juhachinichi_no_seihen",
+    "name": "八月十八日の政変",
+    "start_date": "1863-09-30",
+    "end_date": "1863-09-30",
+    "era_label": "文久3年8月18日",
+    "place_ids": [
+      "kyoto"
+    ],
+    "background": "",
+    "direct_causes": [],
+    "description": "文久3年(1863)8月18日(西暦9月30日)、会津・薩摩両藩の公武合体派勢力が長州藩の勢力を京都から追放した(八月十八日の政変)。朝廷内から尊王攘夷派が追放された。",
+    "immediate_results": [
+      "尊攘派は勢力挽回を期して、京都で過激な行動を企てた。"
+    ],
+    "long_term_effects": [],
+    "person_ids": [],
+    "faction_ids": [
+      "aizu",
+      "satsuma",
+      "choshu",
+      "court"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [],
+    "next_event_ids": [
+      "ikedaya_jiken"
+    ],
+    "source_ids": [
+      "h_naa_exh42_818",
+      "h_ndl_chrono_823",
+      "h_ndl_chrono_823_date",
+      "h_ndl_chrono_823_year"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "ikedaya_jiken",
+    "name": "池田屋事件",
+    "start_date": "1864",
+    "end_date": "1864",
+    "era_label": "元治元年6月5日",
+    "place_ids": [
+      "kyoto"
+    ],
+    "background": "八月十八日の政変ののち、尊攘派は勢力挽回を期して、京都で過激な行動を企てた。",
+    "direct_causes": [],
+    "description": "元治元年(1864)6月5日、新選組は尊攘派が会合中の池田屋を襲撃し、尊攘運動に大きな打撃を与えた(池田屋事件)。池田屋に出動し斬り合いを演じた近藤勇らには、その働きにより褒賞金が下された。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "kondo_isami"
+    ],
+    "faction_ids": [
+      "shinsengumi"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "hachigatsu_juhachinichi_no_seihen"
+    ],
+    "next_event_ids": [
+      "kinmon_no_hen"
+    ],
+    "source_ids": [
+      "h_naa_exh42_ikedaya",
+      "h_naa_exh43_shinsengumi",
+      "h_naa_exh42_818"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "kinmon_no_hen",
+    "name": "禁門の変",
+    "start_date": "1864",
+    "end_date": "1864",
+    "era_label": "元治元年7月19日",
+    "place_ids": [
+      "kyoto"
+    ],
+    "background": "池田屋事件の報は藩内の危機感を高めた。",
+    "direct_causes": [],
+    "description": "元治元年(1864)7月19日、危機感を強めた長州藩は京都に出兵した。三家老(福原越後・国司信濃・益田右衛門介)が兵を率いて上洛し、会津・薩摩・幕府連合軍と京都御所(現在の京都御苑)蛤御門・堺町御門付近で交戦したが、越前・会津・桑名・薩摩各藩の軍勢に敗れた(禁門の変)。長州藩は久坂玄瑞ほか多数の人材を失った。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "kusaka_genzui"
+    ],
+    "faction_ids": [
+      "choshu",
+      "echizen_fukui",
+      "aizu",
+      "satsuma",
+      "bakufu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "ikedaya_jiken"
+    ],
+    "next_event_ids": [
+      "daiichiji_choshu_seitou"
+    ],
+    "source_ids": [
+      "h_naa_exh42_kinmon",
+      "h_naa_history_choshu1",
+      "h_kyoto_toshi25_hamaguri"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "daiichiji_choshu_seitou",
+    "name": "第一次長州征討",
+    "start_date": "1864",
+    "end_date": null,
+    "era_label": "元治元年〜元治元年十二月",
+    "place_ids": [],
+    "background": "元治元年(1864)7月の禁門の変ののち、幕府による長州藩への責任追及が課題となった。",
+    "direct_causes": [],
+    "description": "幕府は長州藩を徹底的に制裁しようと、中国・四国・九州などの二一藩に出動命令を下し、将軍自ら「長州征伐」に当たることを声明した。長州藩は禁門の変の責任者として、征長総督参謀の西郷隆盛の画策により益田・国司・福原の三家老に切腹を、四参謀に処刑を命じて恭順したため、幕府軍と長州藩は戦火を交えることなく、元治元年十二月、総督は全軍に撤兵令を下した。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "saigo_takamori"
+    ],
+    "faction_ids": [
+      "bakufu",
+      "choshu"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "kinmon_no_hen"
+    ],
+    "next_event_ids": [],
+    "source_ids": [
+      "h_fukui_kenshi_choshu_start",
+      "h_fukui_kenshi_choshu_end",
+      "h_fukui_kenshi_choshu_saigo",
+      "h_naa_history_choshu1"
+    ],
+    "review_status": "probable"
+  },
+  {
+    "id": "toba_fushimi_no_tatakai",
+    "name": "鳥羽・伏見の戦い",
+    "start_date": "1868",
+    "end_date": "1868",
+    "era_label": "明治元年正月3日",
+    "place_ids": [],
+    "background": "",
+    "direct_causes": [],
+    "description": "明治元年(1868)正月3日、鳥羽・伏見で新政府側と幕府側が武力衝突し、新政府軍が勝利した(鳥羽・伏見の戦い)。",
+    "immediate_results": [
+      "この後、同年4月の江戸城開城をはさんで上野戦争・北越/東北戦争を経て、明治2年(1869)5月に箱館で榎本武揚らが敗れるまで続く一連の戦争が戊辰戦争と呼ばれる。"
+    ],
+    "long_term_effects": [],
+    "person_ids": [
+      "kondo_isami"
+    ],
+    "faction_ids": [
+      "bakufu",
+      "new_government"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "ousei_fukko_no_daigorei"
+    ],
+    "next_event_ids": [
+      "hakodate_senso_shuketsu"
+    ],
+    "source_ids": [
+      "h_naa_toba_fushimi",
+      "h_fukui_nenpyo_toba",
+      "h_naa_exh43_toba"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "hakodate_senso_shuketsu",
+    "name": "箱館戦争終結",
+    "start_date": "1869",
+    "end_date": "1869",
+    "era_label": "明治2年5月18日",
+    "place_ids": [
+      "goryokaku"
+    ],
+    "background": "明治元年(1868)正月3日の鳥羽・伏見の戦いに始まり、同年4月の江戸城開城、上野戦争、北越・東北戦争を経て、明治2年(1869)5月に箱館で榎本武揚らが敗れるまでの一連の戦争が戊辰戦争と呼ばれる。",
+    "direct_causes": [],
+    "description": "明治2年(1869)5月18日、榎本武揚以下の脱走軍が降伏し、7か月に及んだ戦争が終結して五稜郭は新政府に明け渡された。",
+    "immediate_results": [],
+    "long_term_effects": [],
+    "person_ids": [
+      "enomoto_takeaki"
+    ],
+    "faction_ids": [
+      "new_government"
+    ],
+    "issue_ids": [],
+    "previous_event_ids": [
+      "toba_fushimi_no_tatakai"
+    ],
+    "next_event_ids": [],
+    "source_ids": [
+      "h_hakodate_city_goryokaku",
+      "h_fukui_nenpyo_hakodate",
+      "h_naa_toba_fushimi"
+    ],
+    "review_status": "confirmed"
+  }
+]

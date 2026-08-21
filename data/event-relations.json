@@ -1,0 +1,101 @@
+[
+  {
+    "id": "er_nichibei_shukou_tsusho_jouyaku__ansei_no_taigoku",
+    "from_event_id": "nichibei_shukou_tsusho_jouyaku",
+    "to_event_id": "ansei_no_taigoku",
+    "relation_type": "background",
+    "description": "孝明天皇の勅許を得ないまま日米修好通商条約を締結したことが将軍継嗣問題と結びついて一橋派による批判を招き、孝明天皇による「戊午の密勅」の発出、さらに幕府による関係者の摘発・処罰(安政の大獄)へとつながった。",
+    "source_ids": [
+      "e_hikone_naosuke_ansei_keii"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "er_ansei_no_taigoku__sakuradamongai_incident",
+    "from_event_id": "ansei_no_taigoku",
+    "to_event_id": "sakuradamongai_incident",
+    "relation_type": "direct_cause",
+    "description": "井伊直弼が開国反対派の大名・公家を処罰した安政の大獄への反発から尊王攘夷運動が高まり、直弼は水戸浪士らに江戸城桜田門外で暗殺された。",
+    "source_ids": [
+      "e_kodomo_theme03_taigoku",
+      "e_hikone_taigoku_sakuradamongai_kekka"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "er_satcho_alliance__dainiji_choshu_seitou",
+    "from_event_id": "satcho_alliance",
+    "to_event_id": "dainiji_choshu_seitou",
+    "relation_type": "military_result",
+    "description": "薩長同盟の成立により、幕府が命じた第二次長州征討に薩摩藩は参加しなかった。",
+    "source_ids": [
+      "e_kodomo_theme04_dainiji"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "er_taisei_hokan__ousei_fukko_no_daigorei",
+    "from_event_id": "taisei_hokan",
+    "to_event_id": "ousei_fukko_no_daigorei",
+    "relation_type": null,
+    "description": "大政奉還のあとに王政復古の大号令が出された。両者を因果として明示する資料には到達できていないため、ここでは前後関係のみを示している。",
+    "source_ids": [],
+    "review_status": "needs_review"
+  },
+  {
+    "id": "er_hachigatsu_juhachinichi_no_seihen__ikedaya_jiken",
+    "from_event_id": "hachigatsu_juhachinichi_no_seihen",
+    "to_event_id": "ikedaya_jiken",
+    "relation_type": "reaction",
+    "description": "八月十八日の政変で京都から追放された尊攘派は、勢力挽回を期して京都で過激な行動を企てた。これが池田屋事件につながった。",
+    "source_ids": [
+      "h_naa_exh42_818"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "er_ikedaya_jiken__kinmon_no_hen",
+    "from_event_id": "ikedaya_jiken",
+    "to_event_id": "kinmon_no_hen",
+    "relation_type": "direct_cause",
+    "description": "池田屋事件の報は長州藩内の危機感を高め、長州藩は京都に出兵した(禁門の変)。",
+    "source_ids": [
+      "h_naa_exh42_kinmon"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "er_kinmon_no_hen__daiichiji_choshu_seitou",
+    "from_event_id": "kinmon_no_hen",
+    "to_event_id": "daiichiji_choshu_seitou",
+    "relation_type": "direct_cause",
+    "description": "征長総督参謀の西郷隆盛は、禁門の変の責任者として長州藩の三家老に切腹、四参謀に処刑を命じた。同じ年表(元治元年)の記述でも禁門の変の直後に第一次長州戦争が続けて記載されており、禁門の変が第一次長州征討の直接の契機であることを示す。",
+    "source_ids": [
+      "h_fukui_kenshi_choshu_saigo",
+      "h_naa_history_choshu1"
+    ],
+    "review_status": "confirmed"
+  },
+  {
+    "id": "er_ousei_fukko_no_daigorei__toba_fushimi_no_tatakai",
+    "from_event_id": "ousei_fukko_no_daigorei",
+    "to_event_id": "toba_fushimi_no_tatakai",
+    "relation_type": null,
+    "description": "王政復古の大号令(慶応3年12月9日)と鳥羽・伏見の戦い(明治元年正月3日)は、同じ年表の中に続けて記されている。両者を因果として明示する資料には到達できていないため、ここでは時期の近さのみを示している。",
+    "source_ids": [
+      "h_naa_history_ouseifukko"
+    ],
+    "review_status": "needs_review"
+  },
+  {
+    "id": "er_toba_fushimi_no_tatakai__hakodate_senso_shuketsu",
+    "from_event_id": "toba_fushimi_no_tatakai",
+    "to_event_id": "hakodate_senso_shuketsu",
+    "relation_type": "military_result",
+    "description": "鳥羽・伏見の戦いに始まり、江戸城開城・上野戦争・北越/東北戦争を経て、箱館で榎本武揚らが敗れるまでの一連の戦争が戊辰戦争と呼ばれる。鳥羽・伏見の戦いは箱館戦争終結に至る一連の軍事行動の起点。",
+    "source_ids": [
+      "h_naa_toba_fushimi"
+    ],
+    "review_status": "confirmed"
+  }
+]

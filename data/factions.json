@@ -1,0 +1,140 @@
+[
+  {
+    "id": "bakufu",
+    "name": "江戸幕府",
+    "type": "shogunate",
+    "base_place_ids": [
+      "edo"
+    ],
+    "summary": "文久年間には公武合体路線により14代将軍徳川家茂と孝明天皇の妹和宮の婚姻を進めるなど朝廷との協調を模索したが、慶応3年10月14日(西暦1867年11月9日)、15代将軍徳川慶喜が京都の二条城で大政奉還を表明し、統治体制を終えた。",
+    "source_ids": [
+      "m_kodomo_theme03_bakufu",
+      "m_kodomo_taiseihoukan",
+      "a_ndl_portrait_147",
+      "i_ndl_chrono_taisei_date"
+    ]
+  },
+  {
+    "id": "satsuma",
+    "name": "薩摩藩",
+    "type": "domain",
+    "base_place_ids": [
+      "kagoshima"
+    ],
+    "summary": "国父島津久光(藩主は子の忠義)のもとで公武合体運動を進めた後、慶応2年1月21日(西暦1866年3月7日)に長州藩と薩長同盟を結んで討幕へ転じ、慶応3年12月9日(西暦1868年1月3日)の王政復古の大号令にも西郷隆盛・大久保利通らが加わった。",
+    "source_ids": [
+      "m_kagoshima_sattyo",
+      "b_ndl_portrait_okubo",
+      "b_ndl_portrait_saigo",
+      "s_ndl_portrait_hisamitsu",
+      "i_ndl_chrono_satcho_date",
+      "i_ndl_chrono_ousei_date",
+      "i_ndl_chrono_ousei_year"
+    ]
+  },
+  {
+    "id": "court",
+    "name": "朝廷",
+    "type": "court",
+    "base_place_ids": [
+      "kyoto"
+    ],
+    "summary": "京都の天皇を中心とする伝統的権威。慶応2年12月に孝明天皇が崩御し(西暦では1867年)、翌る慶応3年正月に明治天皇が践祚した。慶応3年12月9日(西暦1868年1月3日)の王政復古の大号令で新政府へと再編された。",
+    "source_ids": [
+      "g_archives_sokui",
+      "g_archives_ouseifukko",
+      "t_ndl_auth_komei",
+      "i_ndl_chrono_ousei_date",
+      "i_ndl_chrono_ousei_year"
+    ]
+  },
+  {
+    "id": "choshu",
+    "name": "長州藩",
+    "type": "domain",
+    "base_place_ids": [
+      "hagi"
+    ],
+    "summary": "萩を本拠とする毛利家の藩。天保8年(1837)に家督を継いだ13代萩藩主毛利敬親のもとで藩政の立て直しが図られたが、元治元年(1864)の禁門の変により朝敵とされ、敬親は萩で謹慎した。",
+    "source_ids": [
+      "g_yamaguchi_takachika_1",
+      "g_yamaguchi_takachika_2"
+    ]
+  },
+  {
+    "id": "tosa",
+    "name": "土佐藩",
+    "type": "domain",
+    "base_place_ids": [],
+    "summary": "山内家の藩。藩主山内豊信(容堂)が公武合体論を推し進めて大政奉還などで重要な役割を果たす一方、吉田東洋暗殺後は土佐勤王党の武市半平太(瑞山)を中心に尊王攘夷の動きが強まった。",
+    "source_ids": [
+      "g_kochi_tosa_1",
+      "g_kochi_tosa_2",
+      "t_ndl_portrait_206"
+    ]
+  },
+  {
+    "id": "aizu",
+    "name": "会津藩",
+    "type": "domain",
+    "base_place_ids": [],
+    "summary": "松平家の藩。文久2年12月、藩主松平容保が藩士千人を率いて入京し、京都守護職として京都の治安維持にあたった。新選組を会津藩御預として置いた。",
+    "source_ids": [
+      "g_aizu_shinsengumi_aizu",
+      "g_aizu_shugoshoku",
+      "g_aizu_shinsengumi_shinsen"
+    ]
+  },
+  {
+    "id": "mito",
+    "name": "水戸藩",
+    "type": "domain",
+    "base_place_ids": [],
+    "summary": "藩主継嗣問題を経て徳川斉昭が藩主に就任したが、弘化元年(1844)に幕府から江戸召還・隠居謹慎の処分を受け、藩政は長子慶篤へ受け継がれた。",
+    "source_ids": [
+      "g_ibaraki_hanshu",
+      "g_ibaraki_zasetsu"
+    ]
+  },
+  {
+    "id": "echizen_fukui",
+    "name": "越前福井藩",
+    "type": "domain",
+    "base_place_ids": [],
+    "summary": "松平家の藩。藩主松平春嶽は橋本左内を侍読兼御内用掛に登用し藩政改革を進めたが、将軍継嗣問題をめぐる安政の大獄で大老井伊直弼により一橋派として厳罰に処された。",
+    "source_ids": [
+      "g_fukui_taigoku_1",
+      "g_fukui_taigoku_2",
+      "t_ndl_portrait_195"
+    ]
+  },
+  {
+    "id": "shinsengumi",
+    "name": "新選組",
+    "type": "other",
+    "base_place_ids": [
+      "kyoto"
+    ],
+    "summary": "会津藩御預として京都で誕生した浪士組織。局長近藤勇・副長土方歳三のもとで、京都の治安維持のため尊王攘夷派の志士を取り締まった。",
+    "source_ids": [
+      "g_aizu_shinsengumi_shinsen",
+      "g_kodomo_kondo",
+      "g_kodomo_hijikata"
+    ]
+  },
+  {
+    "id": "new_government",
+    "name": "新政府",
+    "type": "new_government",
+    "base_place_ids": [
+      "kyoto"
+    ],
+    "summary": "慶応3年12月9日(西暦1868年1月3日)の王政復古の大号令により成立。従来の幕府・摂政・関白などの制度を廃止し、総裁・議定・参与の三職を置いた。岩倉具視らが参与・議定・大納言・右大臣等を務めた。",
+    "source_ids": [
+      "g_archives_ouseifukko",
+      "g_ndl_iwakura_newgov",
+      "i_ndl_chrono_ousei_date",
+      "i_ndl_chrono_ousei_year"
+    ]
+  }
+]
